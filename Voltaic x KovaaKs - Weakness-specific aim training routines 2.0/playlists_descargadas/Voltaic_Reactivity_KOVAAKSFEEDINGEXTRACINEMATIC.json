@@ -1,0 +1,71 @@
+{
+  "playlistName": "Voltaic Reactivity",
+  "subscribers": 11440,
+  "scenarioList": [
+    {
+      "author": "zac",
+      "aimType": "Tracking",
+      "playCount": 10,
+      "scenarioName": "VSS GP9",
+      "webappUsername": "",
+      "steamAccountName": "zac"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Tracking",
+      "playCount": 10,
+      "scenarioName": "Close Fast Strafes Invincible",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Air Voltaic",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Ground Plaza Voltaic",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "patys",
+      "aimType": "Default",
+      "playCount": 10,
+      "scenarioName": "Vertical Fast Strafes",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 10,
+      "scenarioName": "Air Angelic 3478",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Hydroboy",
+      "aimType": "Default",
+      "playCount": 5,
+      "scenarioName": "Air UFO Hard Invincible",
+      "webappUsername": "",
+      "steamAccountName": "Hydroboy"
+    }
+  ],
+  "playlistCode": "KovaaKsFeedingExtraCinematic",
+  "playlistId": 19448,
+  "published": "2021-11-06T01:36:29.892Z",
+  "steamId": "76561199169947430",
+  "steamAccountName": "Voltaic",
+  "webappUsername": "",
+  "description": "",
+  "aimType": "Tracking",
+  "playlistDuration": 73
+}
