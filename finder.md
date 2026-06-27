@@ -98,6 +98,127 @@ Look up the sharecode in `playlists_descargadas/`. Each JSON file contains the f
 
 ---
 
+## 🔍 Scenario Name Parsing Reference
+
+Scenario names in KovaaK's follow a **compositional convention**: `[Base Name] + [Modifiers] + [Community Tag]`. Each component encodes specific training intent. Use this reference during Steps 2, 5, and 6 to decode scenario names into skills, weakness targets, and transfer potential — without needing to open the JSON first.
+
+---
+
+### Base Scenario Dictionary
+
+The base name defines the **movement pattern and primary skill family**.
+
+| Base Name | Primary Skill | Secondary Skill | Movement Pattern |
+|---|---|---|---|
+| **Pasu** | Dynamic Clicking | Timing · Reactivity | Bouncing spherical targets |
+| **Popcorn** | Dynamic Clicking | Vertical Flicking · Reading | Parabolic arcs (vertical + horizontal) |
+| **Air / Air NUNS** | Smooth Tracking | Reading · Verticality · Depth perception | 3D aerial movement |
+| **1w4t / 1W4TS** | Static Clicking | Precision · Micro-corrections | Stationary targets on a front wall |
+| **B180 / Bounce 180** | Dynamic Clicking / Tracking | Smoothness · Direction change | Bouncing 180° arc patterns |
+| **FloatingHeads** | Smooth / Precise Tracking | Centering · Stability | Smooth floating silhouettes (head-shaped) |
+| **Smoothbot** | Smooth Tracking | Mouse Control · Wrist/arm isolation | Smooth, curved paths |
+| **Ground Plaza** | Precise / Smooth Tracking | Reading · Mouse Control | Ground-level curves and sweeps |
+| **WW / Wide Wall** | Static Clicking | Wide flicks · Arm aiming | Stationary targets on a wide horizontal wall |
+| **Long Strafes** | Smooth Tracking | Smoothness · Stability · Speed matching | Long lateral lines before direction change |
+| **Frogtagon** | Dynamic Clicking | Reading · Reactivity | Complex 3D movement (introduced S5) |
+| **PsalmTS** | Target Switching | Transition speed · Reactivity | Multi-target evasive switching |
+| **evaTS** | Evasive Target Switching | Reading · Reactivity · Anticipation | Fast erratic evasive multi-target |
+| **Thin Strafes** | Precise Tracking | Precision · Clean mouse paths | Lateral movement with extremely thin hitbox |
+| **Reactive Strafes** | Reactive Tracking | Reactivity · Direction change control | Instant unpredictable direction reversals |
+| **Smoothsphere** | Smooth / Precise Tracking | Centering · Stability · Wrist control | Smooth spherical targets — often associated with Viscose routines |
+
+---
+
+### Modifier Dictionary
+
+Modifiers shift **which aspect of the base skill** is being isolated or amplified.
+
+| Modifier | Training Focus Shift |
+|---|---|
+| **Goated** | Optimized community version — generally the highest-transfer version for that skill |
+| **TI / Invincible** | Target cannot die → forces **pure continuous tracking** without click interruptions |
+| **Small / Extra Small / 30%** | Reduced hitbox → demands **higher precision** and cleaner mouse paths |
+| **Larger / Fat / Big / 70%** | Enlarged hitbox → allows focus on **raw speed or smoothness** without penalizing minor deviations |
+| **Thin** | Extremely thin hitbox → requires **perfect linear mouse paths** (no jitter tolerated) |
+| **Timescale 0.5 / 0.75** | Slows simulation speed → isolates **smoothness** without speed pressure; progressively increase back to 1x |
+| **Angelic** | Reduced size AND reduced speed → easier entry point for building **base precision** before scaling |
+| **Reload** | Limited ammo, penalizes misses → rewards **click timing and efficiency** over spray |
+| **Air Far** | Aerial targets at greater depth → trains **long-range reading and depth perception** |
+| **NUNS** | No UFO No Skybots → removes the hardest edge cases from aerial scenarios |
+| **Dodge** | Involves player movement → adds **strafe aiming** component on top of base skill |
+| **Nevermiss** | Run ends on miss → maximum **precision enforcement** |
+| **Evasive / Eva** | Evasive movement patterns → rewards **reading over pure reactivity** |
+| **Easier / Easy** | Reduced difficulty on a base scenario → entry point for motor pattern acquisition |
+| **Viscose** | Scenarios designed or associated with Viscose → specialized focus on **smoothness and precise tracking** |
+
+---
+
+### Category / Suffix Keywords
+
+These abbreviations appear as suffixes or standalone labels in scenario and playlist names.
+
+| Keyword | Full Form | What It Signals |
+|---|---|---|
+| **TS** | Target Switch | Target switching category |
+| **TI** | Tracking Invincible | Continuous tracking, no kills |
+| **PGT** | Popcorn Goated Tracking | Tracking on Popcorn movement |
+| **PGTI** | Popcorn Goated Tracking Invincible | Pure smooth/precise tracking, no clicks |
+| **WW** | Wide Wall | Wide static clicking, arm movement |
+| **AIO** | All In One | Gauntlet cycling through multiple dodge profiles |
+| **VSS** | Varied Strafe Speed | Targets vary their strafe speed mid-scenario |
+| **NUNS** | No UFO No Skybots | Aerial tracking without teleporting or overhead bots |
+| **VRT** | Visual Reaction Time | Pure reflex/reaction training |
+| **TE** | Tournament Edition | Larger targets, often used for speed focus |
+| **ISR** | Issue-Specific Routine | Hyper-targeted weakness fixing |
+| **BDIM / VDIM** | Benchmark Daily Improvement Method | Daily category rotation structure |
+| **SYA** | Smooth Your Aim | Smoothness-focused general routine |
+| **SYW** | Smooth Your Wrist | Wrist-isolation smoothness routine |
+| **FAR** | Full Accomplishment Routines | Weekly structured progression routines |
+| **FR** | Fundamental Routines | Rank-organized foundational training |
+| **multi** | Multi-click | Technique that consists of clicking multiple times on a single target to eliminate it focused on micro adjusmet and precision tracking while clicking |
+
+---
+
+### Skill → Scenario Correlation Map
+
+Use this during **Step 3** (building candidates) and **Step 6** (estimating transfer). When the benchmark reveals a weakness in a skill, find which scenario types develop it here.
+
+| Weakness Identified | High-Transfer Scenario Types |
+|---|---|
+| **Smoothness** | Long Strafes · Smoothbot · PGTI · Air (low speed) · Timescale variants · SYA/SYW routines |
+| **Reactive Tracking / Reactivity** | Reactive Strafes · B180 · Pasu · Bounce variants · evaTS · VSS scenarios |
+| **Precise Tracking** | Thin Strafes · Smoothsphere Viscose · FloatingHeads (small) · Ground Plaza (small) |
+| **Dynamic Clicking** | Pasu · Popcorn · Frogtagon · B180 · Bounce · FloatingHeads (clicking mode) |
+| **Static Clicking** | 1w4t · WW / Wide Wall · Nevermiss static variants · Bardpill methodology |
+| **Target Switching** | PsalmTS · evaTS · TS variants · AIO maps with multi-target profiles |
+| **Reading / Anticipation** | Air NUNS · evaTS · Reactive Strafes · Frogtagon · Long Strafes (direction anticipation) |
+| **Arm Aiming / Wide Flicks** | WW (Wide Wall) · Air Far · Wide Angle scenarios · Large movement static maps |
+| **Wrist Control / Micro-corrections** | SYW · Thin Strafes · Smoothsphere Viscose · Small static variants · Reload scenarios |
+| **Jitter / Stability** | Timescale 0.5 variants · SYA · Long Strafes · Smoothbot · Nevermiss · ISR anti-jitter |
+| **Centering** | Precise Smoothbot · FloatingHeads · Tracking scenarios with small targets |
+| **Speed Matching** | Long Strafes · Smoothbot · PGTI · Reactive Strafes |
+| **Direction Change Control** | B180 · Reactive Strafes · Bounce variants · VSS |
+| **Overflicking / Undershoot** | Nevermiss · Reload · Small static variants · Timescale 0.75 static |
+
+---
+
+### Reading Scenario Names in Practice
+
+When you encounter an unknown scenario name during Step 5, parse it left to right:
+
+1. **Identify the base** → look up movement pattern and primary skill in the Base Dictionary
+2. **Identify modifiers** → apply training focus shifts from the Modifier Dictionary
+3. **Check for category suffixes** → refine the skill label using the Suffix Keywords
+4. **Map to benchmark weaknesses** → cross-reference the Skill Correlation Map
+
+> Example: `"Smoothsphere Viscose Easier"`
+> - Base = **Smoothsphere** → Smooth/Precise Tracking, Centering, Wrist Control
+> - Modifier = **Viscose** → Smoothness and Precise Tracking specialist focus
+> - Modifier = **Easier** → Entry-level difficulty, motor pattern acquisition
+> - Skill correlation → Smoothness · Precise Tracking · Wrist Control · Centering
+
+---
+
 ## Step 1 — Identify the Problem
 
 From the JSON, extract:
@@ -119,16 +240,19 @@ Then identify:
 
 ## Step 2 — Convert Scenarios Into Skills
 
-For every weak scenario, determine:
+For every weak scenario, decode its name using the **Scenario Name Parsing Reference** above before assigning skills. Parse: Base → Modifiers → Suffix. Then determine:
 
 ### Primary Skill
 Examples: Smoothness · Reactive Tracking · Precision Tracking · Dynamic Clicking · Static Clicking · Target Switching
 
 ### Secondary Skill
-Examples: Reading · Stability · Micro Adjustments · Reactivity · Timing
+Examples: Reading · Stability · Micro Adjustments · Reactivity · Timing · Speed Matching · Direction Change Control
 
 ### Mouse Control Components
-Examples: Wrist Control · Fingertip Control · Arm Control · Jitter Reduction · Tension Management · Undertracking · Overtracking · Direction Change Control · Thin Tracking
+Examples: Wrist Control · Fingertip Control · Arm Control · Jitter Reduction · Tension Management · Undertracking · Overtracking · Centering · Thin Tracking
+
+### Scenario Context (from name parsing)
+Note the movement pattern, hitbox properties, and simulation conditions implied by the name. These constrain which playlist scenarios can realistically produce transfer.
 
 Build a **weakness profile** before moving forward. Do not search for playlists yet.
 
@@ -166,14 +290,19 @@ For every candidate playlist, open the file and extract:
 
 ## Step 5 — Analyze Individual Scenarios
 
-For every scenario inside each candidate playlist, identify:
+For every scenario inside each candidate playlist, **first parse its name** using the Scenario Name Parsing Reference (Base → Modifiers → Suffix), then identify:
 
-- Main skill trained
-- Secondary skill trained
-- Weakness targeted
-- Intended adaptation
+- **Movement pattern** — what the target actually does (from Base Dictionary)
+- **Hitbox conditions** — size, shape, and thickness (from Modifier Dictionary)
+- **Simulation conditions** — timescale, ammo, invincibility, etc. (from Modifier Dictionary)
+- **Main skill trained** — primary skill from name parsing + correlation map
+- **Secondary skill trained** — secondary skill from name parsing
+- **Weakness targeted** — specific deficit the scenario addresses
+- **Intended adaptation** — what the player's motor system should learn from repeated exposure
 
-Ask for each scenario: *Why is this here? What weakness is it solving? What benchmark skills does it develop?*
+Ask for each scenario: *Why is this here? What weakness is it solving? What benchmark skills does it develop? Does the movement pattern in this scenario match the movement pattern in the player's weak benchmark scenario?*
+
+> Modifier combinations matter. A `Thin + Timescale 0.75` scenario trains a fundamentally different adaptation than `Thin` alone. Always apply every modifier in the name.
 
 ---
 
@@ -181,20 +310,24 @@ Ask for each scenario: *Why is this here? What weakness is it solving? What benc
 
 Compare **benchmark scenario requirements** vs **playlist scenario requirements**.
 
-Measure overlap in:
+Use the **Skill → Scenario Correlation Map** to verify that the playlist scenarios belong to the same skill family as the benchmark weaknesses. Then measure overlap in:
 
-- Movement patterns
-- Reading demands
-- Tracking style (reactive / precision / smooth)
-- Clicking style (dynamic / static)
-- Reactivity
-- Smoothness
-- Precision requirements
-- Mouse control requirements
+- **Movement patterns** — does the playlist scenario move the same way as the benchmark scenario? (bounce vs strafe vs aerial vs static)
+- **Hitbox conditions** — similar size, shape, and thickness demands?
+- **Reading demands** — does the playlist scenario require the same level of anticipation?
+- **Tracking style** — reactive / precision / smooth — are they the same?
+- **Clicking style** — dynamic / static / switching — match?
+- **Reactivity** — similar speed of direction change?
+- **Smoothness** — similar emphasis on clean mouse paths?
+- **Precision requirements** — similar tolerance for deviation?
+- **Mouse control requirements** — same physical component (wrist / arm / fingertip)?
+- **Simulation conditions** — timescale, ammo, invincibility — do they change the adaptation significantly?
 
-**Higher overlap = higher expected transfer.**
+**Higher overlap in all dimensions = higher expected transfer.**
 
-Do not use playlist popularity, reputation, or titles as evidence. Use actual scenario contents.
+A playlist with 10 scenarios where 8 match the benchmark's movement pattern and hitbox conditions outperforms a playlist with 20 scenarios where only 3 match, even if the second playlist has a stronger reputation.
+
+Do not use playlist popularity, reputation, or titles as evidence. Use actual scenario contents and name-parsed skill mappings.
 
 ---
 
@@ -248,3 +381,4 @@ Answer the following:
 5. **What improvement should be expected** if the playlist is followed consistently?
 
 Optimize for **efficiency**. The objective is not general aim improvement — it is solving the specific bottlenecks that limit benchmark progression.
+
