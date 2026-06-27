@@ -175,7 +175,6 @@ These abbreviations appear as suffixes or standalone labels in scenario and play
 | **SYW** | Smooth Your Wrist | Wrist-isolation smoothness routine |
 | **FAR** | Full Accomplishment Routines | Weekly structured progression routines |
 | **FR** | Fundamental Routines | Rank-organized foundational training |
-| **multi** | Multi-click | Technique that consists of clicking multiple times on a single target to eliminate it focused on micro adjusmet and precision tracking while clicking |
 
 ---
 
@@ -381,4 +380,3 @@ Answer the following:
 5. **What improvement should be expected** if the playlist is followed consistently?
 
 Optimize for **efficiency**. The objective is not general aim improvement — it is solving the specific bottlenecks that limit benchmark progression.
-
