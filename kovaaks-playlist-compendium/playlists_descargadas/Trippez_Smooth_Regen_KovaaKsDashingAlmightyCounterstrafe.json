@@ -1,0 +1,127 @@
+{
+  "playlistName": "Trippez Smooth Regen",
+  "subscribers": 4558,
+  "scenarioList": [
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Hard",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Pauer",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Controlsphere TS regen",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Smoothbot TS Voltaic Regen Hasin 20% Smaller",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    },
+    {
+      "author": "Perseverance",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "devTS Goated NR Small Regen",
+      "webappUsername": "",
+      "steamAccountName": "Perseverance"
+    },
+    {
+      "author": "ethan",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTS Varied",
+      "webappUsername": "",
+      "steamAccountName": "ethan"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Pasu Voltaic TS Small Regen",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Control Hard",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Smoothbot TS Voltaic Regen Hasin",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    },
+    {
+      "author": "Spryc",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Hard faster",
+      "webappUsername": "spryc",
+      "steamAccountName": "Spryc"
+    },
+    {
+      "author": "Ironmeen",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Smoothbot TS Regen II",
+      "webappUsername": "Ironmeen",
+      "steamAccountName": "Ironmeen"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Hard Smaller",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "invader #rawinput",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "VoxTS Voltaic mini regen",
+      "webappUsername": "darkpoke12",
+      "steamAccountName": "invader #rawinput"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Thin Control Raspberry ",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Trippez",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Trippez Popcorn Smooth Track regen",
+      "webappUsername": "Trippez",
+      "steamAccountName": "Trippez"
+    }
+  ],
+  "playlistCode": "KovaaKsDashingAlmightyCounterstrafe",
+  "playlistId": 27682,
+  "published": "2021-12-02T21:56:19.837Z",
+  "steamId": "76561198143390329",
+  "steamAccountName": "Trippez",
+  "webappUsername": "Trippez",
+  "description": "",
+  "aimType": "Target Switching,Tracking",
+  "playlistDuration": 26
+}

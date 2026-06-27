@@ -1,0 +1,127 @@
+{
+  "playlistName": "VALORANT - PureG [Training]",
+  "subscribers": 8191,
+  "scenarioList": [
+    {
+      "author": "slorppuku",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "Valorant small horizontal flicks No Explosion",
+      "webappUsername": "",
+      "steamAccountName": "slorppuku"
+    },
+    {
+      "author": "VT HotRodRe",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Spherical Centering",
+      "webappUsername": "Whisperr",
+      "steamAccountName": "VT HotRodRe"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Consecutive Tracking",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "tamTS control Lapu4 180",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Sandi",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Micro adjust 5 targets small",
+      "webappUsername": "",
+      "steamAccountName": "Sandi"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "Eclipse Flick",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "Dokkie",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "RawMouseControl Reload",
+      "webappUsername": "Dokkie",
+      "steamAccountName": "Dokkie"
+    },
+    {
+      "author": "ethan",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "beanClick Micro 30% Smaller",
+      "webappUsername": "",
+      "steamAccountName": "ethan"
+    },
+    {
+      "author": "fel0ny",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "Cooler TAF",
+      "webappUsername": "plaza",
+      "steamAccountName": "fel0ny"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "Tamspeed 2bps",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Dokkie",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "1w2ts Pasu Perfected 30% Smaller",
+      "webappUsername": "Dokkie",
+      "steamAccountName": "Dokkie"
+    },
+    {
+      "author": "ethan",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "ochClick HS 30% Smaller",
+      "webappUsername": "",
+      "steamAccountName": "ethan"
+    },
+    {
+      "author": "Inconsistent_Rakajaka",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Valorant Peek small",
+      "webappUsername": "",
+      "steamAccountName": "Inconsistent_Rakajaka"
+    },
+    {
+      "author": "Krascsi",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "Valobotz Aim 90 30s",
+      "webappUsername": "krascsi",
+      "steamAccountName": "Krascsi"
+    }
+  ],
+  "playlistCode": "KovaaKsHipfiringShamrockAttrition",
+  "playlistId": 54241,
+  "published": "2022-02-20T18:54:32.249Z",
+  "steamId": "76561198851187804",
+  "steamAccountName": "Krascsi",
+  "webappUsername": "krascsi",
+  "description": "",
+  "aimType": "Clicking,Target Switching",
+  "playlistDuration": 36
+}

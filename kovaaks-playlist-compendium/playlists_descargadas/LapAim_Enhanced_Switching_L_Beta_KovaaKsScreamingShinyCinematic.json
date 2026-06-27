@@ -1,0 +1,87 @@
+{
+  "playlistName": "LapAim Enhanced Switching L Beta",
+  "subscribers": 756,
+  "scenarioList": [
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "B180T Voltaic Speed Large",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Empyrean",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Voltaic AC 5 - xenTargetSwitch speed",
+      "webappUsername": "Empyrean",
+      "steamAccountName": "Empyrean"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "devTS Goated NR Static Easy",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "VoxTS static improved Easy",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "voxTS Voltaic Large",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "patTS Voltaic 90 v2 Easy",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Lapu4 Magnus",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Controlsphere TS VT Easy",
+      "webappUsername": "",
+      "steamAccountName": "Lapu4 Magnus"
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "B180T Voltaic Easy",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "",
+      "playCount": 2,
+      "scenarioName": "Pokeball Wide rAim Easy",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    }
+  ],
+  "playlistCode": "KovaaKsScreamingShinyCinematic",
+  "playlistId": 22100,
+  "published": "2021-11-14T13:18:01.414Z",
+  "steamId": "76561198415893190",
+  "steamAccountName": "Lapu4 Magnus",
+  "webappUsername": "",
+  "description": "",
+  "aimType": "Target Switching",
+  "playlistDuration": 20
+}

@@ -1,0 +1,263 @@
+{
+  "playlistName": "4BK - Become Zaddy (VT)",
+  "subscribers": 27,
+  "scenarioList": [
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT Pasu Rasp Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT Pasu Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT Bounceshot Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT Bounceshot Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT 1w3ts Rasp Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT 1w5ts Rasp Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT Multiclick 180 Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT Multiclick 120 Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "patys",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT AngleStrafe Advanced",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT ArcStrafe Advanced",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "VT ArcStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "开阳",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT Smoothbot Advanced",
+      "webappUsername": "",
+      "steamAccountName": "开阳"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT Smoothbot Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT PreciseOrb Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT PreciseOrb Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT Ground Varied Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT Ground Varied Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT Air Varied Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT Air Varied Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT PatStrafe Advanced",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT PatStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT AirStrafe Advanced",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VT AirStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT psalmTS Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT psalmTS Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT skyTS Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT skyTS Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT evaTS Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT evaTS Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT bounceTS Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VT bounceTS Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    }
+  ],
+  "playlistCode": "KovaaKsQuestingDownedFrag",
+  "playlistId": 143329,
+  "published": "2023-01-20T14:54:31.388Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "Made by 4BangerKovaaks",
+  "aimType": "Clicking,Target Switching,Tracking",
+  "playlistDuration": 29
+}

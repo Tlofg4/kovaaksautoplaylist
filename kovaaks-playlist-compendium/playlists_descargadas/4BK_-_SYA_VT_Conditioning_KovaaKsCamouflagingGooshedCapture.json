@@ -1,0 +1,239 @@
+{
+  "playlistName": "4BK - SYA VT Conditioning",
+  "subscribers": 1276,
+  "scenarioList": [
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT Pasu Rasp Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Sneak",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT Bounceshot Intermediate 85%",
+      "webappUsername": "Sneak",
+      "steamAccountName": "Sneak"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT Bounceshot Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Quolu",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT 1w5ts Intermediate Pokeball",
+      "webappUsername": "Quolu",
+      "steamAccountName": "Quolu"
+    },
+    {
+      "author": "EmpireDeadman",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT 1w5ts Intermediate 100% Larger",
+      "webappUsername": "EmpireDeadman",
+      "steamAccountName": "EmpireDeadman"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT 1w5ts Rasp Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "󠀡󠀡⁧⁧ rx",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "rx Multiclick Pokeball",
+      "webappUsername": "rxnown",
+      "steamAccountName": "󠀡󠀡⁧⁧ rx"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT Multiclick 120 Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Empyrean",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": " XY Tracking Dodge Platinum",
+      "webappUsername": "Empyrean",
+      "steamAccountName": "Empyrean"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "XY Tracking Dodge",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT AngleStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "󠀡󠀡⁧⁧ rx",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT ArcStrafe Novice",
+      "webappUsername": "rxnown",
+      "steamAccountName": "󠀡󠀡⁧⁧ rx"
+    },
+    {
+      "author": "patys",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT ArcStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "A C H I L L E S ♰",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT_Smoothbot_Intermediate_TS_75",
+      "webappUsername": "4BangerKovaaks",
+      "steamAccountName": "A C H I L L E S ♰"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Smoothbot Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "A C H I L L E S ♰",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT_PreciseOrb_Intermediate_TS_75",
+      "webappUsername": "4BangerKovaaks",
+      "steamAccountName": "A C H I L L E S ♰"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT PreciseOrb Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "A C H I L L E S ♰",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT_Plaza_Intermediate_TS_75",
+      "webappUsername": "4BangerKovaaks",
+      "steamAccountName": "A C H I L L E S ♰"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Plaza Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "A C H I L L E S ♰",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT_Air_Intermediate_TS_75",
+      "webappUsername": "4BangerKovaaks",
+      "steamAccountName": "A C H I L L E S ♰"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Air Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "Sneak",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Patstrafe Intermediate 80%",
+      "webappUsername": "Sneak",
+      "steamAccountName": "Sneak"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT PatStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT AirStrafe Intermediate",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT psalmTS Novice",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT psalmTS Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "hetchara",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "skyTS Static Angelic Easy 15%",
+      "webappUsername": "Lorys",
+      "steamAccountName": "hetchara"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT skyTS Intermediate",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    }
+  ],
+  "playlistCode": "KovaaKsCamouflagingGooshedCapture",
+  "playlistId": 199769,
+  "published": "2023-10-29T03:36:59.866Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "S.Y.A Method\r\nMade By 4BangerKovaaK's",
+  "aimType": "Tracking",
+  "playlistDuration": 60
+}

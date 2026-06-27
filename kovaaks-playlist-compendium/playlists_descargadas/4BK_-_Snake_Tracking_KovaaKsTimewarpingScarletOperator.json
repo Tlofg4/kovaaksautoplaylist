@@ -1,0 +1,103 @@
+{
+  "playlistName": "4BK - Snake Tracking",
+  "subscribers": 332,
+  "scenarioList": [
+    {
+      "author": "Pauer",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Centering I 180",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Default",
+      "playCount": 5,
+      "scenarioName": "Ascended Tracking v3",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Smoothbot Voltaic Easy",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "开阳",
+      "aimType": "Tracking",
+      "playCount": 5,
+      "scenarioName": "VT Smoothbot Advanced",
+      "webappUsername": "",
+      "steamAccountName": "开阳"
+    },
+    {
+      "author": "kin",
+      "aimType": "Default",
+      "playCount": 5,
+      "scenarioName": "B180TI Goated",
+      "webappUsername": "kindred",
+      "steamAccountName": "kin"
+    },
+    {
+      "author": "e1se",
+      "aimType": "Tracking",
+      "playCount": 5,
+      "scenarioName": "e1se Far Angle Smoothness EASY",
+      "webappUsername": "e1se",
+      "steamAccountName": "e1se"
+    },
+    {
+      "author": "gasuto6290",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "ABFS Meso Big",
+      "webappUsername": "",
+      "steamAccountName": "gasuto6290"
+    },
+    {
+      "author": "patys",
+      "aimType": "Default",
+      "playCount": 5,
+      "scenarioName": "Midrange Fast Strafes V2",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Controlsphere rAim Easy",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 5,
+      "scenarioName": "Extra Controlsphere Pure",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "mgli",
+      "aimType": "Default",
+      "playCount": 5,
+      "scenarioName": "1wall 6targets small",
+      "webappUsername": "",
+      "steamAccountName": "mgli"
+    }
+  ],
+  "playlistCode": "KovaaKsTimewarpingScarletOperator",
+  "playlistId": 205372,
+  "published": "2023-11-30T22:42:13.038Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "Copied ow_snakes most played scenarios, more runs = he's played it more OMEGALUL",
+  "aimType": "Tracking",
+  "playlistDuration": 40
+}

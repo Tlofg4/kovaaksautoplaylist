@@ -1,0 +1,215 @@
+{
+  "playlistName": "4BK - Buy My Coaching If This Helped You (TS)",
+  "subscribers": 891,
+  "scenarioList": [
+    {
+      "author": "sini",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "kinTS NR",
+      "webappUsername": "sini",
+      "steamAccountName": "sini"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "",
+      "playCount": 1,
+      "scenarioName": "kinTS NR Static",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "",
+      "playCount": 1,
+      "scenarioName": "kinTS V2 Static",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "VT HotRodRe",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "kinTargetSwitch 360 No Reload",
+      "webappUsername": "Whisperr",
+      "steamAccountName": "VT HotRodRe"
+    },
+    {
+      "author": "lawa",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "KinTS Voltaic Speed Prac Static",
+      "webappUsername": "Viscose",
+      "steamAccountName": "lawa"
+    },
+    {
+      "author": "Cowser",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "CowserTS speed",
+      "webappUsername": "Cowser",
+      "steamAccountName": "Cowser"
+    },
+    {
+      "author": "ceiling fan",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "Target Switching 360 Static",
+      "webappUsername": "",
+      "steamAccountName": "ceiling fan"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Target Switching 360 Static Thin",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "Sworce",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "360 Static TS",
+      "webappUsername": "Sworce",
+      "steamAccountName": "Sworce"
+    },
+    {
+      "author": "Pozole",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "Liot TS",
+      "webappUsername": "__Vic",
+      "steamAccountName": "Pozole"
+    },
+    {
+      "author": "KiraPanE",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "TS360 Static Dodge",
+      "webappUsername": "",
+      "steamAccountName": "KiraPanE"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "patCircleSwitch NR",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "a",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "patCircleSwitch NR Static",
+      "webappUsername": "",
+      "steamAccountName": "a"
+    },
+    {
+      "author": "a",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "patCircleSwitch small NR Static",
+      "webappUsername": "",
+      "steamAccountName": "a"
+    },
+    {
+      "author": "ins",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "insTS",
+      "webappUsername": "ins",
+      "steamAccountName": "ins"
+    },
+    {
+      "author": "Perseverance",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "InsTS Small",
+      "webappUsername": "",
+      "steamAccountName": "Perseverance"
+    },
+    {
+      "author": "Perseverance",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "InsTS Regen",
+      "webappUsername": "",
+      "steamAccountName": "Perseverance"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "patTargetSwitch 360",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "JuicerQt",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "pattargetswitch static no reload",
+      "webappUsername": "JuicerQt",
+      "steamAccountName": "JuicerQt"
+    },
+    {
+      "author": "XBG xen0",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "xenTargetSwitch",
+      "webappUsername": "",
+      "steamAccountName": "XBG xen0"
+    },
+    {
+      "author": "icu",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "xenTargetSwitch speed static",
+      "webappUsername": "aa",
+      "steamAccountName": "icu"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "",
+      "playCount": 1,
+      "scenarioName": "voxTargetSwitch Static",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "VT HotRodRe",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "voxTS Viscose Varied",
+      "webappUsername": "Whisperr",
+      "steamAccountName": "VT HotRodRe"
+    },
+    {
+      "author": "Jnkdog",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "VoxTS Voltaic Jumbo",
+      "webappUsername": "",
+      "steamAccountName": "Jnkdog"
+    },
+    {
+      "author": "Pauer",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "voxTS Voltaic Jumbo lowTTK",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    }
+  ],
+  "playlistCode": "KovaaKsPatrollingCanaryBloom",
+  "playlistId": 201625,
+  "published": "2023-11-08T19:50:04.039Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "A copy of Viscose TS, yet shortened and adjusted some scenarios.\r\n\r\nMade by 4BangerKovaaks",
+  "aimType": "Target Switching",
+  "playlistDuration": 25
+}

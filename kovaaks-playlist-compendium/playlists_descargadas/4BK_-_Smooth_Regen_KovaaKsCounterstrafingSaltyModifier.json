@@ -1,0 +1,135 @@
+{
+  "playlistName": "4BK - Smooth Regen",
+  "subscribers": 3353,
+  "scenarioList": [
+    {
+      "author": "mgli",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "360 REGEN small",
+      "webappUsername": "",
+      "steamAccountName": "mgli"
+    },
+    {
+      "author": "Pauer",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Controlsphere TS regen",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Smoothbot TS Voltaic Regen Hasin 20% Smaller",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    },
+    {
+      "author": "wa11p1per the creator",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Midrange Long Strafes Thin V2 FIXED + Regen",
+      "webappUsername": "wa11p1per",
+      "steamAccountName": "wa11p1per the creator"
+    },
+    {
+      "author": "Ironmeen",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Close Fast Strafes TS Regen II",
+      "webappUsername": "Ironmeen",
+      "steamAccountName": "Ironmeen"
+    },
+    {
+      "author": "wa11p1per the creator",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "Star Tracking Regen - @wa11p1per",
+      "webappUsername": "wa11p1per",
+      "steamAccountName": "wa11p1per the creator"
+    },
+    {
+      "author": "Trippez",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Trippez Popcorn Smooth Track regen",
+      "webappUsername": "Trippez",
+      "steamAccountName": "Trippez"
+    },
+    {
+      "author": "wa11p1per the creator",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "bemeTS regen",
+      "webappUsername": "wa11p1per",
+      "steamAccountName": "wa11p1per the creator"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Hard",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Pasu Voltaic TS Small Regen",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Smoothbot TS Voltaic Regen Hasin",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Hard Smaller",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "icu",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Revolving Tracking Extra Thin",
+      "webappUsername": "aa",
+      "steamAccountName": "icu"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "XY Tracking Dodge",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "patys",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "XY Tracking Dodge Hard",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    }
+  ],
+  "playlistCode": "KovaaKsCounterstrafingSaltyModifier",
+  "playlistId": 130015,
+  "published": "2022-11-24T18:32:42.404Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "Made by 4BangerKovaaks",
+  "aimType": "Clicking,Target Switching,Tracking",
+  "playlistDuration": 23
+}

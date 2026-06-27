@@ -1,0 +1,207 @@
+{
+  "playlistName": "4BK - Conditioning Playlist",
+  "subscribers": 579,
+  "scenarioList": [
+    {
+      "author": "sini",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Thin Aiming long slow invincible",
+      "webappUsername": "sini",
+      "steamAccountName": "sini"
+    },
+    {
+      "author": "day",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Thin Aiming Long Invincible",
+      "webappUsername": "",
+      "steamAccountName": "day"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VSS Thin Aiming Long Raspberry",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    },
+    {
+      "author": "Tijolo Baiano",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Smoothsphere Easy",
+      "webappUsername": "_kapi",
+      "steamAccountName": "Tijolo Baiano"
+    },
+    {
+      "author": "hanzo 煵",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Extra SmoothSphere",
+      "webappUsername": "",
+      "steamAccountName": "hanzo 煵"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Smoothsphere",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch LR",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Small",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "ben",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Close Long Strafes Invincible FASTER",
+      "webappUsername": "",
+      "steamAccountName": "ben"
+    },
+    {
+      "author": "ji2L",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Close Long Strafes Invincible 180",
+      "webappUsername": "",
+      "steamAccountName": "ji2L"
+    },
+    {
+      "author": "sdk",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Close fast strafes easy invincible thin 50%",
+      "webappUsername": "",
+      "steamAccountName": "sdk"
+    },
+    {
+      "author": "James Jerona",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "[70%] Close Fast Strafes Easy Invincible",
+      "webappUsername": "",
+      "steamAccountName": "James Jerona"
+    },
+    {
+      "author": "Huddled",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Close Fast Strafes Easy Invincible",
+      "webappUsername": "huddled",
+      "steamAccountName": "Huddled"
+    },
+    {
+      "author": "Pauer",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "voxTS Voltaic Jumbo lowTTK",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    },
+    {
+      "author": "A C H I L L E S ♰",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "4BK - Vox Goated TS Static LOW TTK",
+      "webappUsername": "4BangerKovaaks",
+      "steamAccountName": "A C H I L L E S ♰"
+    },
+    {
+      "author": "Antimony",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "CombinedClick SuperbAim Easy",
+      "webappUsername": "NatriumIA",
+      "steamAccountName": "Antimony"
+    },
+    {
+      "author": "panini",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "1w4tes BardPill",
+      "webappUsername": "panini",
+      "steamAccountName": "panini"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Pokeball 1w4t shrink",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "1w4t shrink",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "VT HotRodRe",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Pokeball Auto 1w2ts smallflicks",
+      "webappUsername": "Whisperr",
+      "steamAccountName": "VT HotRodRe"
+    },
+    {
+      "author": "Leeroyfreeman",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "1w2t TE Bardpill",
+      "webappUsername": "Leeroyfreeman",
+      "steamAccountName": "Leeroyfreeman"
+    },
+    {
+      "author": "Zeeq",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "1w2ts reload",
+      "webappUsername": "",
+      "steamAccountName": "Zeeq"
+    },
+    {
+      "author": "just a vagabond",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "1w2tes",
+      "webappUsername": "",
+      "steamAccountName": "just a vagabond"
+    }
+  ],
+  "playlistCode": "KovaaKsRevolvingEggplantFamas",
+  "playlistId": 143333,
+  "published": "2023-01-20T15:23:57.243Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "FULL Conditioning Playlist\r\nMade by 4BangerKovaaks",
+  "aimType": "Clicking",
+  "playlistDuration": 45
+}

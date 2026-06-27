@@ -1,0 +1,95 @@
+{
+  "playlistName": "Hauntr Track Easy",
+  "subscribers": 1083,
+  "scenarioList": [
+    {
+      "author": "Fallen",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Pasu Track Smooth small",
+      "webappUsername": "Fallen",
+      "steamAccountName": "Fallen"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Smoothsphere",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Controlsphere",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "VT HotRodRe",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "fuglaaXYZ Smooth Beta 2",
+      "webappUsername": "Whisperr",
+      "steamAccountName": "VT HotRodRe"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "FuglaaXYZ Voltaic No Blinks small ",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Smoothbot Voltaic",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Air Angelic Invincible 2",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Air Angelic 4 Voltaic",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "ryan",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Air Invincible 8",
+      "webappUsername": "rcnly",
+      "steamAccountName": "ryan"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Ground Plaza Voltaic Easy Invincible 1",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    }
+  ],
+  "playlistCode": "KovaaKsSneakingDesertsandMain",
+  "playlistId": 58392,
+  "published": "2022-03-09T02:49:57.813Z",
+  "steamId": "76561199008085734",
+  "steamAccountName": "angelia",
+  "webappUsername": "",
+  "description": "",
+  "aimType": "Tracking",
+  "playlistDuration": 25
+}

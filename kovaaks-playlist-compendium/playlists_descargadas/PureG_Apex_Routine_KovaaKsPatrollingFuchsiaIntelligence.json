@@ -1,0 +1,199 @@
+{
+  "playlistName": "PureG Apex Routine",
+  "subscribers": 2754,
+  "scenarioList": [
+    {
+      "author": "Hydroboy",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "B180TI Extra Small Sparky",
+      "webappUsername": "",
+      "steamAccountName": "Hydroboy"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Extra Smoothsphere Pure",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Extra Controlsphere Pure",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "icu",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "LDDH Fixed",
+      "webappUsername": "aa",
+      "steamAccountName": "icu"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Close Evasive Pure",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "kin",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Popcorn Goated Tracking",
+      "webappUsername": "kindred",
+      "steamAccountName": "kin"
+    },
+    {
+      "author": "Cowser",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Smoothbot Unvincible Small Goated",
+      "webappUsername": "Cowser",
+      "steamAccountName": "Cowser"
+    },
+    {
+      "author": "",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Highground Pure",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Cowser",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VSS GPAIO thin far bots",
+      "webappUsername": "Cowser",
+      "steamAccountName": "Cowser"
+    },
+    {
+      "author": "zac",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "VSS Close-Mid Long",
+      "webappUsername": "",
+      "steamAccountName": "zac"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Pasu Small Pure",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "Ghokury",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Popcorn Voltaic No Reload",
+      "webappUsername": "Ghokury",
+      "steamAccountName": "Ghokury"
+    },
+    {
+      "author": "saotic",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Bounce 180 small goated",
+      "webappUsername": "",
+      "steamAccountName": "saotic"
+    },
+    {
+      "author": "VT HotRodRe",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "ww4t Varied",
+      "webappUsername": "Whisperr",
+      "steamAccountName": "VT HotRodRe"
+    },
+    {
+      "author": "Daan",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "6wall14targets_Pokeball",
+      "webappUsername": "PureDaan",
+      "steamAccountName": "Daan"
+    },
+    {
+      "author": "KA Opus",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "voxTargetSwitch Smooth",
+      "webappUsername": "Opus",
+      "steamAccountName": "KA Opus"
+    },
+    {
+      "author": "NFNT",
+      "aimType": "Target Switching",
+      "playCount": 1,
+      "scenarioName": "3D Switching",
+      "webappUsername": "NFNT",
+      "steamAccountName": "NFNT"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Clicking",
+      "playCount": 1,
+      "scenarioName": "Bounce CT Dodge Park",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "CFSD Pure",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Pauer",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "Cycle Strafes Mid Varied Medium",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    },
+    {
+      "author": "Pauer",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "Circle Strafes Mid Varied Medium",
+      "webappUsername": "DonPauer",
+      "steamAccountName": "Pauer"
+    },
+    {
+      "author": "huekk",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Manwing Strafe Gallery V3",
+      "webappUsername": "huekk",
+      "steamAccountName": "huekk"
+    },
+    {
+      "author": "Fallen",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "Pasu Dodge Track Pure",
+      "webappUsername": "Fallen",
+      "steamAccountName": "Fallen"
+    }
+  ],
+  "playlistCode": "KovaaKsPatrollingFuchsiaIntelligence",
+  "playlistId": 6903,
+  "published": "2021-10-11T11:46:14.962Z",
+  "steamId": "76561198135134396",
+  "steamAccountName": "lol",
+  "webappUsername": "",
+  "description": "",
+  "aimType": "Clicking,Target Switching,Tracking",
+  "playlistDuration": 18
+}

@@ -1,0 +1,103 @@
+{
+  "playlistName": "static god",
+  "subscribers": 2645,
+  "scenarioList": [
+    {
+      "author": "Sea7",
+      "aimType": "Target Switching",
+      "playCount": 5,
+      "scenarioName": "Pokeball Auto ww6t Larger Voltaic",
+      "webappUsername": "",
+      "steamAccountName": "Sea7"
+    },
+    {
+      "author": "Pudge",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Pokeball Frenzy Auto Small 60s",
+      "webappUsername": "Pudge",
+      "steamAccountName": "Pudge"
+    },
+    {
+      "author": "Pudge",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "Pokeball Frenzy Auto 1w2ts",
+      "webappUsername": "Pudge",
+      "steamAccountName": "Pudge"
+    },
+    {
+      "author": "gigavaxxed",
+      "aimType": "Default",
+      "playCount": 3,
+      "scenarioName": "Pokeball Auto ww6ts",
+      "webappUsername": "",
+      "steamAccountName": "gigavaxxed"
+    },
+    {
+      "author": "Pudge",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "Pokeball Frenzy Auto Small Wide",
+      "webappUsername": "Pudge",
+      "steamAccountName": "Pudge"
+    },
+    {
+      "author": "Hydroboy",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Wide Wall 3 Targets Small",
+      "webappUsername": "",
+      "steamAccountName": "Hydroboy"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "6wall18targets small reload",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "Wide Wall 10 Extra Small",
+      "webappUsername": "",
+      "steamAccountName": ""
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "ww3t Voltaic",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "Agga",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "5 Sphere Hipfire Extra Small",
+      "webappUsername": "",
+      "steamAccountName": "Agga"
+    },
+    {
+      "author": "Raspberry Sucks At Aim",
+      "aimType": "Clicking",
+      "playCount": 3,
+      "scenarioName": "VT 1w3ts Rasp Advanced",
+      "webappUsername": "",
+      "steamAccountName": "Raspberry Sucks At Aim"
+    }
+  ],
+  "playlistCode": "KovaaKsBlinkingSneakyQuaker",
+  "playlistId": 120241,
+  "published": "2022-10-08T19:16:04.436Z",
+  "steamId": "76561198269212415",
+  "steamAccountName": "TRAGEDY",
+  "webappUsername": "TRAGEDY",
+  "description": "",
+  "aimType": "Clicking,Target Switching",
+  "playlistDuration": 30
+}

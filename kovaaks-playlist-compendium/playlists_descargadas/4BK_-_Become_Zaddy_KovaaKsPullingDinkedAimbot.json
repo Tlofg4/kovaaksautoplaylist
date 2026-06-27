@@ -1,0 +1,175 @@
+{
+  "playlistName": "4BK - Become Zaddy",
+  "subscribers": 34,
+  "scenarioList": [
+    {
+      "author": "󠀡󠀡⁧⁧ rx",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Smoothbot Voltaic XXXSmall",
+      "webappUsername": "rxnown",
+      "steamAccountName": "󠀡󠀡⁧⁧ rx"
+    },
+    {
+      "author": "Voltaic",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "Smoothbot Voltaic Easy",
+      "webappUsername": "",
+      "steamAccountName": "Voltaic"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Hard Smaller",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "Tijolo Baiano",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Smoothsphere Easy",
+      "webappUsername": "_kapi",
+      "steamAccountName": "Tijolo Baiano"
+    },
+    {
+      "author": "Lowgravity56",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Smooth Thin Strafes Raspberry LG56",
+      "webappUsername": "Lowgravity56",
+      "steamAccountName": "Lowgravity56"
+    },
+    {
+      "author": "KovaaK",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "Smooth Thin Strafes Raspberry Easy",
+      "webappUsername": "KovaaK",
+      "steamAccountName": "KovaaK"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Midrange Fast Strafes Invincible Grandmaster",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    },
+    {
+      "author": "patys",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Midrange Fast Strafes",
+      "webappUsername": "patys",
+      "steamAccountName": "patys"
+    },
+    {
+      "author": "hanzo 煵",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "centering III",
+      "webappUsername": "",
+      "steamAccountName": "hanzo 煵"
+    },
+    {
+      "author": "hanzo 煵",
+      "aimType": "Tracking",
+      "playCount": 1,
+      "scenarioName": "centering I",
+      "webappUsername": "",
+      "steamAccountName": "hanzo 煵"
+    },
+    {
+      "author": "Mantis",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "L180TI Extra Small Sparky",
+      "webappUsername": "",
+      "steamAccountName": "Mantis"
+    },
+    {
+      "author": "Huddled",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Bounce 180 Tracking",
+      "webappUsername": "huddled",
+      "steamAccountName": "Huddled"
+    },
+    {
+      "author": "ckap =]",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "1wall6targets TE",
+      "webappUsername": "ckap",
+      "steamAccountName": "ckap =]"
+    },
+    {
+      "author": "Krascsi",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Wide wall 6 targets extra small",
+      "webappUsername": "krascsi",
+      "steamAccountName": "Krascsi"
+    },
+    {
+      "author": "TauntyArmordillo",
+      "aimType": "Default",
+      "playCount": 2,
+      "scenarioName": "Pokeball Frenzy Auto Small",
+      "webappUsername": "",
+      "steamAccountName": "TauntyArmordillo"
+    },
+    {
+      "author": "Pudge",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Pokeball Frenzy Auto Extra Small",
+      "webappUsername": "Pudge",
+      "steamAccountName": "Pudge"
+    },
+    {
+      "author": "ink",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "VoxTargetSwitch Smooth Small",
+      "webappUsername": "",
+      "steamAccountName": "ink"
+    },
+    {
+      "author": "hibi",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "voxTargetSwitch Jumbo [Low TTK]",
+      "webappUsername": "hibi",
+      "steamAccountName": "hibi"
+    },
+    {
+      "author": "Генерал 200",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "VoxTargetSwitch Click Small",
+      "webappUsername": "stydno",
+      "steamAccountName": "Генерал 200"
+    },
+    {
+      "author": "Huddled",
+      "aimType": "Default",
+      "playCount": 1,
+      "scenarioName": "Floating Heads Timing 400%",
+      "webappUsername": "huddled",
+      "steamAccountName": "Huddled"
+    }
+  ],
+  "playlistCode": "KovaaKsPullingDinkedAimbot",
+  "playlistId": 143327,
+  "published": "2023-01-20T14:48:43.497Z",
+  "steamId": "76561197986398437",
+  "steamAccountName": "A C H I L L E S ♰",
+  "webappUsername": "4BangerKovaaks",
+  "description": "Made by 4BangerKovaaks",
+  "aimType": "Clicking,Target Switching,Tracking",
+  "playlistDuration": 29
+}
