@@ -89,10 +89,12 @@ From the benchmark JSON, extract:
 - Every scenario name, its `score`, its `scenario_rank`, and its `rank_maxes`
 - Every category's `category_rank`
 
+**Ranking direction:** A higher `scenario_rank` or `category_rank` number means a higher rank tier — it is not a worse position. A category with `category_rank` 9 is stronger than one with `category_rank` 5. Weakness means the rank number is **lower** than `overall_rank`, not higher.
+
 Identify:
 - Which scenarios have the lowest `scenario_rank` relative to `overall_rank`
 - Which scenarios have the largest point gap to the next threshold in `rank_maxes`
-- Which categories have a `category_rank` that lags behind `overall_rank`
+- Which categories have a `category_rank` that is **below** `overall_rank`
 
 List the weak scenarios by their exact names as they appear in the benchmark JSON.
 
