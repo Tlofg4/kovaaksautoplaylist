@@ -2,10 +2,6 @@ const fs = require('fs');
 const path = require('path');
 
 const DIRECTORIES = [
-    '4rK_Benchmark_Focus_Routines_S5',
-    'Benchmark_Daily_Improvement_Method_BDIM',
-    'Voltaic Daily Improvement Method for Kovaaks S5 by Lowgravity56 & 4rk',
-    'Voltaic x KovaaKs - Weakness-specific aim training routines 2.0',
     'kovaaks-playlist-compendium'
 ];
 

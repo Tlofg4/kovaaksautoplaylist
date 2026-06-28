@@ -22,13 +22,9 @@ function findCandidates(mapperOutputFile, outputFile = null) {
     const rawData = fs.readFileSync(mapperOutputFile, 'utf-8');
     const input = JSON.parse(rawData);
     
-    // All 5 source .md files — previously only 2 were scanned
+    // Only read from kovaaks-playlist-compendium
     const sources = [
-        { key: 'compendium',    path: path.join(__dirname, '..', 'kovaaks-playlist-compendium', 'README.md') },
-        { key: '4rK',           path: path.join(__dirname, '..', '4rK_Benchmark_Focus_Routines_S5', '4rK_Benchmark_Focus_Routines_S5.md') },
-        { key: 'BDIM',          path: path.join(__dirname, '..', 'Benchmark_Daily_Improvement_Method_BDIM', 'Benchmark_Daily_Improvement_Method_BDIM.md') },
-        { key: 'weakness',      path: path.join(__dirname, '..', 'Voltaic x KovaaKs - Weakness-specific aim training routines 2.0', 'Voltaic x KovaaKs - Weakness-specific aim training routines 2.0.md') },
-        { key: 'voltaic_dim',   path: path.join(__dirname, '..', 'Voltaic Daily Improvement Method for Kovaaks S5 by Lowgravity56 & 4rk', 'Voltaic Daily Improvement Method for Kovaaks S5 by Lowgravity56 & 4rk.md') }
+        { key: 'compendium',    path: path.join(__dirname, '..', 'kovaaks-playlist-compendium', 'README.md') }
     ];
 
     // Build tagged lines: each entry knows which source file it came from

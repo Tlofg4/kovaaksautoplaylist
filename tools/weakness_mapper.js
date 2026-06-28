@@ -32,10 +32,9 @@ function mapWeaknesses(weaknessesFile, outputFile = null) {
     const input = JSON.parse(rawData);
     
     const compendiumPath = path.join(__dirname, '..', 'kovaaks-playlist-compendium', 'README.md');
-    const frkPath = path.join(__dirname, '..', '4rK_Benchmark_Focus_Routines_S5', '4rK_Benchmark_Focus_Routines_S5.md');
     
     const compendium = parseMarkdownCategories(compendiumPath);
-    const frkRoutines = parseMarkdownCategories(frkPath);
+    const frkRoutines = {}; // Not used — only compendium is active
     
     // Fallback dictionary
     const categoryMapping = {
