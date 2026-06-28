@@ -99,7 +99,30 @@ Each `.json` in any `playlists_descargadas/` folder represents one playlist and 
 
 ---
 
-## Step 1 — Identify the Problem
+## ⚡ Fast-Path Automated Tool Pipeline (RECOMMENDED)
+
+To significantly speed up this workflow, prevent hallucinations, and save tokens, an automated tool pipeline has been built in the `tools/` directory. **You should always prioritize running these tools** instead of manually reading massive markdown files or parsing the benchmark JSON by hand.
+
+### How to use the automated tools:
+Instead of performing Steps 1-8 manually, simply run the master pipeline script in the terminal:
+```bash
+node tools/run_pipeline.js <path_to_benchmark.json>
+```
+*(For example: `node tools/run_pipeline.js testfinder.json`)*
+
+**What this command does:**
+1. **`benchmark_parser.js` (Automates Step 1)**: Parses the JSON, ignores comments, and objectively extracts the worst subcategories and scenarios below the player's average rank.
+2. **`weakness_mapper.js` (Automates Step 2)**: Takes those weaknesses and maps them to parent categories, searching the `kovaaks-playlist-compendium` and `4rK` markdown files for matches.
+3. **`playlist_candidate_finder.js` (Automates Step 3)**: Finds playlist sharecodes using a primary strategy (scenario name similarity) and a secondary strategy (category/tier matches).
+4. **`playlist_evaluator.js` (Automates Steps 4-8)**: Reads the local `.json` playlist files in the `playlists_descargadas/` folders, validates verifiable data (aim types, reps), and outputs a final S/A/B tiered JSON object.
+
+Once the script finishes, you will receive a clean, structured JSON output in your terminal. **Use this output directly to complete Step 9 (Build the Recommendation)**. 
+
+*Only fall back to the manual steps below if the automated tools fail or require debugging.*
+
+---
+
+## Step 1 — Identify the Problem (Manual Fallback)
 
 From the benchmark JSON, extract:
 
@@ -296,6 +319,28 @@ State: which category, which scenarios, and what the point gap is to the next th
 ---
 
 ## Step 9 — Build the Recommendation
+
+### ⚠️ Pre-Filter: Reading the Pipeline Output (MANDATORY before answering anything)
+
+The pipeline output contains a mix of strong and weak candidates. **Do not treat all candidates equally.** Before writing any recommendation, apply this filter:
+
+**Tier 1 — Strong candidates (prioritize these):**
+- `source: "similarity_match"` AND `weaknessCoverage > 0` AND `mdSource` is one of `"4rK"`, `"BDIM"`, or `"weakness"`
+- These are verified: the playlist contains scenarios by name that match the weakness, sourced from curated aim-training guides.
+
+**Tier 2 — Acceptable candidates (use if no Tier 1 exists):**
+- `source: "similarity_match"` AND `isCuratedSource: true` (even if `weaknessCoverage = 0`)
+- `source: "category_match"` AND `isCuratedSource: true` AND `weaknessCoverage > 0`
+
+**Discard — Do NOT recommend these:**
+- `source: "category_match"` AND `weaknessCoverage = 0` AND `mdSource: "compendium"` — these are generic community playlists with no confirmed connection to the player's actual weak scenarios.
+- Any playlist where `scenarioFamilyList` is empty AND `mdSource` is `"compendium"`.
+
+**If after filtering, zero candidates remain:** Do not invent a recommendation. State that the pipeline found no confirmed match and fall back to the manual steps (Steps 2–8) to find candidates.
+
+**Never say a playlist is "the best" unless it passes the Tier 1 filter.** Use the `scenarioFamilyList` field to cite the specific scenario names that confirmed the match. If the list is empty, you cannot claim the playlist directly targets the weakness.
+
+---
 
 For each answer, cite the specific file and field that supports it. Label inferences.
 

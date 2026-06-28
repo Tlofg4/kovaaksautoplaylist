@@ -1,0 +1,639 @@
+{
+  "playerProfile": {
+    "overallRankIndex": 8,
+    "overallRankName": "Orca"
+  },
+  "tierSelected": "Novice",
+  "candidates": [
+    {
+      "sharecode": "KovaaKsChokingFlyInventory",
+      "source": "similarity_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsDinkingExtraReflex",
+      "source": "similarity_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsSneakingDesertsandMain",
+      "source": "similarity_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsBobbingPeachPrism",
+      "source": "similarity_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsResettingEasyOfficer",
+      "source": "similarity_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsFlanking180Rhombus",
+      "source": "similarity_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KOVAAKSDUNKINGEASYCROSSFIRE",
+      "source": "similarity_match",
+      "mdSource": "weakness",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KOVAAKSDROPPINGDYNAMICHELL",
+      "source": "similarity_match",
+      "mdSource": "weakness",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsZoningEasyDrop",
+      "source": "similarity_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "High"
+    },
+    {
+      "sharecode": "KovaaKsPushingVioletXur",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsGriefingGearedController",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsWinningVibrantController",
+      "source": "category_match",
+      "mdSource": "4rK",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCrossfiring180Patrol",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsAdventuringGrayEngine",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTaggingGoldenochreAfk",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClickingInvincibleHell",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsFinishingApricotShotgun",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsUltingMahoganyShotgun",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTimewarpingLongLurker",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsStartingMaroonGear",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsFlicking10xCrank",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsFlashing360Heaven",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBobbingCamouflagedPull",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBunnyhoppingSkyblueCard",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChatfraggingBadFullbuy",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCallingYellowRifle",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBunnyhoppingWideDoor",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTimewarpingScarletOperator",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsReloadingWeeklyCapture",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsRevolvingWetMilestone",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsSensingYellowJump",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsResettingWeeklyTimewarp",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsRoamingWhiteEngram",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsSneakingZonedDoor",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChattingHorizontalJump",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsDashingCanaryWeaponlevel",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChokingBuggedDeserteagle",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsStrafingJunglegreenWall",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTrackingMagentaDunk",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTeleportingBrickredPot",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCampingCeruleanEngine",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTrackingAcedWall",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsPlunderingBlueValue",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsPoppingBoxedMouse",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTrackingTwitchyDiscord",
+      "source": "category_match",
+      "mdSource": "4rK",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBoomstickingFlawlessWall",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChatfraggingGoldenochreRank",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCallingGearedDunk",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsAcingEggplantBomb",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBaitingFarGhostpeeker",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBottingFlyNerf",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChattingGoldenrodGulag",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCamouflagingGhostpeekedBoundingbox",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsAdsingEggplantSecret",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBindingFastClient",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Spectral Easy 85%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChokingSeagreenRaid",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTrollingDesertsandGasmask",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsSnipingJumpyFlashbang",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClickingFraggedBuildbattle",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClickingCharcoalgrayGod",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClickingSpringgreenReset",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClippingJebaitedCrossfire",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsSneakingJumboPick",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsPoppingVioletBunnyhop",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCheatingDenimPick",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClickingViscousBoundingbox",
+      "source": "category_match",
+      "mdSource": "BDIM",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBobbingFlankedFlashbang",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsCarryingGodlikeDink",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBunnyhoppingFraggedTag",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsWipingDynamicLoot",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsAscendingFantasticAttrition",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBombingFlawlessChallenge",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChallengingGoldenochreBattlepass",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBuyingFuchsiaLurker",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBackflippingFantasticQuest",
+      "source": "category_match",
+      "mdSource": "voltaic_dim",
+      "associatedWeakness": "Air Angelic 4 Voltaic Easy 70%",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsJigglepeekingButteryDps",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsQuestingViscousOfftank",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsRocketingWideBuff",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsRaidingVividtangerineFaq",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsScreamingWideSpeed",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsTeleportingGoldenochrePlunder",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsFeedingApricotBoundingbox",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsDroppingCharcoalgrayTank",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsGriefingBuffedFireteam",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsHeadshottingBuggedCatalyst",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsQuestingSepiaProjectile",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsBombingPeriwinkleQuest",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsClearingBoxedPopcorn",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsEnragingAcedQuaker",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    },
+    {
+      "sharecode": "KovaaKsChallengingExtraInfiltration",
+      "source": "category_match",
+      "mdSource": "compendium",
+      "associatedWeakness": "VT Controlsphere Viscose Easier",
+      "confidence": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+    "benchmark_progress": 389657.78,
+    "overall_rank": 8,
+    "categories": {
+        "Arm": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "Smoothsphere Viscose Easier": {
+                    "score": 1364100,
+                    "leaderboard_rank": 6010,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        5500,
+                        6500,
+                        8050,
+                        9200,
+                        10200,
+                        11400,
+                        12300,
+                        13050,
+                        13600
+                    ],
+                    "leaderboard_id": 185342
+                },
+                "Whisphere Viscose Easier": {
+                    "score": 1861000,
+                    "leaderboard_rank": 4634,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        6800,
+                        9400,
+                        10300,
+                        11100,
+                        12800,
+                        14500,
+                        16200,
+                        17500,
+                        18500
+                    ],
+                    "leaderboard_id": 185346
+                },
+                "SmoothBot Perfected Easier": {
+                    "score": 505957,
+                    "leaderboard_rank": 4712,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        2000,
+                        2500,
+                        3000,
+                        3350,
+                        3650,
+                        4100,
+                        4500,
+                        4775,
+                        5025
+                    ],
+                    "leaderboard_id": 184652
+                }
+            }
+        },
+        "Wrist": {
+            "benchmark_progress": 29962.96,
+            "category_rank": 8,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "Leapstrafes Control wobin Easier": {
+                    "score": 384700,
+                    "leaderboard_rank": 1454,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        1200,
+                        1600,
+                        2025,
+                        2250,
+                        2450,
+                        2750,
+                        3000,
+                        3250,
+                        3450
+                    ],
+                    "leaderboard_id": 185344
+                },
+                "Controlsphere SuperbAim Viscose Easier": {
+                    "score": 1180800,
+                    "leaderboard_rank": 4444,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        4200,
+                        5100,
+                        6200,
+                        7050,
+                        7975,
+                        9050,
+                        10000,
+                        10800,
+                        11750
+                    ],
+                    "leaderboard_id": 185345
+                },
+                "VT Controlsphere Viscose Easier": {
+                    "score": 409000,
+                    "leaderboard_rank": 4719,
+                    "scenario_rank": 8,
+                    "rank_maxes": [
+                        1100,
+                        1600,
+                        2100,
+                        2450,
+                        2750,
+                        3175,
+                        3500,
+                        3800,
+                        4100
+                    ],
+                    "leaderboard_id": 184157
+                }
+            }
+        },
+        "Fingertip": {
+            "benchmark_progress": 29857.78,
+            "category_rank": 8,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "Air Angelic 4 Voltaic Easy 70%": {
+                    "score": 506800,
+                    "leaderboard_rank": 5177,
+                    "scenario_rank": 8,
+                    "rank_maxes": [
+                        2600,
+                        3050,
+                        3575,
+                        3950,
+                        4175,
+                        4475,
+                        4700,
+                        4850,
+                        5100
+                    ],
+                    "leaderboard_id": 14155
+                },
+                "cloverRawControl Viscose Easier 50cm": {
+                    "score": 1229700,
+                    "leaderboard_rank": 2138,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        5000,
+                        5850,
+                        6400,
+                        7100,
+                        7800,
+                        9200,
+                        10000,
+                        10700,
+                        11500
+                    ],
+                    "leaderboard_id": 185349
+                },
+                "Flower Easier 50cm": {
+                    "score": 378800,
+                    "leaderboard_rank": 2017,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        1050,
+                        1350,
+                        1650,
+                        2000,
+                        2350,
+                        2575,
+                        2875,
+                        3200,
+                        3475
+                    ],
+                    "leaderboard_id": 185354
+                }
+            }
+        },
+        "Blending": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "PGTI Voltaic Easy Smoother": {
+                    "score": 257800,
+                    "leaderboard_rank": 2879,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        550,
+                        700,
+                        1050,
+                        1200,
+                        1375,
+                        1675,
+                        1950,
+                        2250,
+                        2500
+                    ],
+                    "leaderboard_id": 184878
+                },
+                "Air CELESTIAL No UFO Easier": {
+                    "score": 89783,
+                    "leaderboard_rank": 2746,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        800,
+                        817,
+                        842,
+                        852,
+                        862,
+                        873,
+                        883,
+                        889,
+                        896
+                    ],
+                    "leaderboard_id": 185640
+                },
+                "RawControlSphere Easier": {
+                    "score": 1322400,
+                    "leaderboard_rank": 3535,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        4700,
+                        5900,
+                        7400,
+                        8200,
+                        8900,
+                        10400,
+                        11000,
+                        12300,
+                        13200
+                    ],
+                    "leaderboard_id": 185356
+                }
+            }
+        },
+        "Control": {
+            "benchmark_progress": 19837.04,
+            "category_rank": 8,
+            "rank_maxes": [
+                2222.22,
+                4444.44,
+                6666.67,
+                8888.89,
+                11111.11,
+                13333.33,
+                15555.56,
+                17777.78,
+                20000
+            ],
+            "scenarios": {
+                "Ground Plaza Sparky v3 Easy": {
+                    "score": 89271,
+                    "leaderboard_rank": 2358,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        780,
+                        805,
+                        833,
+                        845,
+                        854,
+                        866,
+                        876,
+                        884,
+                        889
+                    ],
+                    "leaderboard_id": 134502
+                },
+                "Air Spectral Easy 85%": {
+                    "score": 93156,
+                    "leaderboard_rank": 3825,
+                    "scenario_rank": 8,
+                    "rank_maxes": [
+                        870,
+                        895,
+                        907,
+                        913,
+                        917,
+                        922,
+                        926,
+                        929,
+                        932
+                    ],
+                    "leaderboard_id": 185693
+                }
+            }
+        },
+        "Speed": {
+            "benchmark_progress": 20000,
+            "category_rank": 9,
+            "rank_maxes": [
+                2222.22,
+                4444.44,
+                6666.67,
+                8888.89,
+                11111.11,
+                13333.33,
+                15555.56,
+                17777.78,
+                20000
+            ],
+            "scenarios": {
+                "VT Aether Bot 1 Easier": {
+                    "score": 388600,
+                    "leaderboard_rank": 1049,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        1200,
+                        1600,
+                        1850,
+                        2100,
+                        2400,
+                        2700,
+                        3000,
+                        3250,
+                        3475
+                    ],
+                    "leaderboard_id": 186530
+                },
+                "Plink Palace Easy Less Blinks": {
+                    "score": 319900,
+                    "leaderboard_rank": 2162,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        1300,
+                        1600,
+                        2000,
+                        2175,
+                        2300,
+                        2525,
+                        2775,
+                        2925,
+                        3100
+                    ],
+                    "leaderboard_id": 184534
+                }
+            }
+        },
+        "Reading": {
+            "benchmark_progress": 20000,
+            "category_rank": 9,
+            "rank_maxes": [
+                2222.22,
+                4444.44,
+                6666.67,
+                8888.89,
+                11111.11,
+                13333.33,
+                15555.56,
+                17777.78,
+                20000
+            ],
+            "scenarios": {
+                "Air Pure Easier No UFO": {
+                    "score": 94197,
+                    "leaderboard_rank": 1936,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        875,
+                        895,
+                        912,
+                        919,
+                        923,
+                        928,
+                        933,
+                        937,
+                        940
+                    ],
+                    "leaderboard_id": 185405
+                },
+                "Air Voltaic Invincible 4 Easier": {
+                    "score": 425200,
+                    "leaderboard_rank": 3603,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        1750,
+                        2350,
+                        2800,
+                        3050,
+                        3200,
+                        3500,
+                        3900,
+                        4100,
+                        4250
+                    ],
+                    "leaderboard_id": 185406
+                }
+            }
+        },
+        "Speed ": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "ww5t Voltaic Slightly Larger": {
+                    "score": 13300,
+                    "leaderboard_rank": 1586,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        70,
+                        80,
+                        92,
+                        97,
+                        101,
+                        108,
+                        113,
+                        119,
+                        125
+                    ],
+                    "leaderboard_id": 185378
+                },
+                "voxTargetSwitch 2 Large": {
+                    "score": 12100,
+                    "leaderboard_rank": 9130,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        59,
+                        68,
+                        78,
+                        84,
+                        92,
+                        99,
+                        106,
+                        113,
+                        120
+                    ],
+                    "leaderboard_id": 84880
+                },
+                "aimerz+ Static Switching 6 Bot Slightly Larger": {
+                    "score": 13100,
+                    "leaderboard_rank": 3380,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        78,
+                        89,
+                        98,
+                        103,
+                        109,
+                        115,
+                        121,
+                        126,
+                        131
+                    ],
+                    "leaderboard_id": 185407
+                }
+            }
+        },
+        "Stability": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "1w6ts reload v2 20% bigger": {
+                    "score": 11500,
+                    "leaderboard_rank": 3453,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        64,
+                        71,
+                        78,
+                        85,
+                        91,
+                        97,
+                        103,
+                        109,
+                        115
+                    ],
+                    "leaderboard_id": 21620
+                },
+                "beanTS Larger": {
+                    "score": 14195,
+                    "leaderboard_rank": 6347,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        53,
+                        64,
+                        75,
+                        86,
+                        96,
+                        106,
+                        116,
+                        126,
+                        137
+                    ],
+                    "leaderboard_id": 129353
+                },
+                "StaticSwitchingVox": {
+                    "score": 12415,
+                    "leaderboard_rank": 4585,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        67,
+                        76,
+                        86,
+                        91,
+                        96,
+                        101,
+                        108,
+                        114,
+                        119
+                    ],
+                    "leaderboard_id": 15659
+                }
+            }
+        },
+        "Micro": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "1w2ts reload smallflicks larger": {
+                    "score": 13900,
+                    "leaderboard_rank": 1603,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        76,
+                        85,
+                        93,
+                        100,
+                        106,
+                        112,
+                        118,
+                        124,
+                        130
+                    ],
+                    "leaderboard_id": 185518
+                },
+                "eth Pasu Micro Easier": {
+                    "score": 125000,
+                    "leaderboard_rank": 2826,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        600,
+                        700,
+                        775,
+                        850,
+                        925,
+                        1000,
+                        1075,
+                        1150,
+                        1225
+                    ],
+                    "leaderboard_id": 185394
+                },
+                "waldoTS Novice": {
+                    "score": 14639,
+                    "leaderboard_rank": 5600,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        51,
+                        63,
+                        74,
+                        85,
+                        96,
+                        107,
+                        118,
+                        129,
+                        140
+                    ],
+                    "leaderboard_id": 113019
+                }
+            }
+        },
+        "Post-Flick": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "kinTS Voltaic Easy 85%": {
+                    "score": 7607,
+                    "leaderboard_rank": 1120,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        35,
+                        38,
+                        44,
+                        49,
+                        54,
+                        59,
+                        63,
+                        67,
+                        72
+                    ],
+                    "leaderboard_id": 185408
+                },
+                "domiSwitch Easier": {
+                    "score": 752720,
+                    "leaderboard_rank": 3082,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        3000,
+                        3600,
+                        4200,
+                        4800,
+                        5400,
+                        6000,
+                        6500,
+                        7000,
+                        7500
+                    ],
+                    "leaderboard_id": 185428
+                },
+                "B180T Voltaic Easy Slower": {
+                    "score": 7220,
+                    "leaderboard_rank": 2411,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        32,
+                        37,
+                        42,
+                        47,
+                        52,
+                        57,
+                        62,
+                        67,
+                        72
+                    ],
+                    "leaderboard_id": 185571
+                }
+            }
+        },
+        "Reading ": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "Pasu Voltaic Reload Easier": {
+                    "score": 9500,
+                    "leaderboard_rank": 2277,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        38,
+                        46,
+                        52,
+                        59,
+                        65,
+                        72,
+                        78,
+                        84,
+                        91
+                    ],
+                    "leaderboard_id": 185636
+                },
+                "VT Bounceshot Viscose Easier": {
+                    "score": 89000,
+                    "leaderboard_rank": 2174,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        300,
+                        380,
+                        460,
+                        540,
+                        610,
+                        690,
+                        750,
+                        810,
+                        870
+                    ],
+                    "leaderboard_id": 185392
+                },
+                "CatClick Easier": {
+                    "score": 8000,
+                    "leaderboard_rank": 2926,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        27,
+                        35,
+                        42,
+                        49,
+                        56,
+                        63,
+                        69,
+                        75,
+                        80
+                    ],
+                    "leaderboard_id": 184866
+                }
+            }
+        },
+        "Precision": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "1w3ts Pasu Perfected Micro Goated Larger 80%": {
+                    "score": 131400,
+                    "leaderboard_rank": 7190,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        420,
+                        530,
+                        640,
+                        750,
+                        860,
+                        970,
+                        1080,
+                        1190,
+                        1300
+                    ],
+                    "leaderboard_id": 128920
+                },
+                "Popcorn MV Easier": {
+                    "score": 42000,
+                    "leaderboard_rank": 3130,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        90,
+                        150,
+                        200,
+                        240,
+                        280,
+                        320,
+                        360,
+                        390,
+                        420
+                    ],
+                    "leaderboard_id": 185398
+                },
+                "skyClick Goated Easier": {
+                    "score": 12200,
+                    "leaderboard_rank": 1817,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        60,
+                        71,
+                        80,
+                        89,
+                        95,
+                        102,
+                        107,
+                        112,
+                        117
+                    ],
+                    "leaderboard_id": 185490
+                }
+            }
+        },
+        "Stability ": {
+            "benchmark_progress": 30000,
+            "category_rank": 9,
+            "rank_maxes": [
+                3333.33,
+                6666.67,
+                10000,
+                13333.33,
+                16666.67,
+                20000,
+                23333.33,
+                26666.67,
+                30000
+            ],
+            "scenarios": {
+                "VoxTS Click Easier": {
+                    "score": 10600,
+                    "leaderboard_rank": 2501,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        48,
+                        57,
+                        64,
+                        72,
+                        79,
+                        86,
+                        93,
+                        99,
+                        105
+                    ],
+                    "leaderboard_id": 136076
+                },
+                "VT Floating Heads Viscose Easier": {
+                    "score": 106739,
+                    "leaderboard_rank": 1286,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        400,
+                        500,
+                        580,
+                        645,
+                        700,
+                        790,
+                        870,
+                        930,
+                        1015
+                    ],
+                    "leaderboard_id": 185409
+                },
+                "psalmTS Viscose Click Easier": {
+                    "score": 8000,
+                    "leaderboard_rank": 2926,
+                    "scenario_rank": 9,
+                    "rank_maxes": [
+                        31,
+                        39,
+                        45,
+                        51,
+                        57,
+                        63,
+                        69,
+                        74,
+                        80
+                    ],
+                    "leaderboard_id": 185609
+                }
+            }
+        }
+    },
+    "ranks": [
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank00.svg",
+            "name": "No Rank",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "This is No rank!",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank01.svg",
+            "name": " Lemming",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank04.svg",
+            "name": "Hare",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank07.svg",
+            "name": "Ermine",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank10.svg",
+            "name": "Puffin",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank12.svg",
+            "name": "Penguin",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank13.svg",
+            "name": "Fox",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank16.svg",
+            "name": "Mammoth",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/Rank19.svg",
+            "name": "Orca",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        },
+        {
+            "icon": "https://storage.googleapis.com/cdn_dev/benchmarks/ranks/KvK/RankLB.svg",
+            "name": "Seal",
+            "color": "#ffffff",
+            "frame": "https://storage.googleapis.com/cdn_dev/benchmarks/frames/general/Rank01.svg",
+            "description": "-",
+            "playercard_large": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Lg_01.png",
+            "playercard_small": "https://storage.googleapis.com/cdn_dev/benchmarks/cards/general/Sm_01.png"
+        }
+    ]
+}
