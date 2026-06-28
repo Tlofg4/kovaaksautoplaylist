@@ -43,340 +43,208 @@ The player will provide their benchmark data as a **JSON object** with the follo
 }
 ```
 
-This JSON represents the **benchmark table** visible in the player's profile — one entry per category and scenario, including the player's score, their scenario rank, and the score thresholds for each rank tier.
-
 Key fields to interpret:
 - **`scenario_rank`** — the player's current rank on that scenario (index into `rank_maxes`; the highest index = max tier)
 - **`rank_maxes`** — the score required for each rank tier on that scenario
 - **`score`** — the player's current score on that scenario
 - **`category_rank`** — the player's rank within that category
 
-Use this data as the foundation for all analysis. Do not ask the player for scores manually if a JSON has been provided.
-
 ---
 
-## Available Resources
+## What the repository files actually contain
 
-To build the recommendation, you have access to the following local resources:
+Before running any step, understand exactly what each file type gives you and what it does not.
 
-### 📁 Repository Structure
+### `.md` files
 
-```
-Weakness auto routine/
-│
-├── kovaaks-playlist-compendium/
-│   ├── README.md                        ← Full compendium documentation
-│   └── playlists_descargadas/           ← Downloaded playlist JSONs (sharecode → full contents)
-│
-├── Voltaic x KovaaKs - Weakness-specific aim training routines 2.0/
-│   └── *.md                             ← Weakness-specific routines with sharecodes
-│
-├── 4rK_Benchmark_Focus_Routines_S5/
-│   └── *.md                             ← Benchmark-focused routines with sharecodes
-│
-├── Benchmark_Daily_Improvement_Method_BDIM/
-│   └── *.md                             ← Daily improvement routines with sharecodes
-│
-└── Voltaic Daily Improvement Method for Kovaaks S5 by Lowgravity56 & 4rk/
-    └── *.md                             ← Full daily method routines with sharecodes
-```
+Each `.md` file in the routine folders is a curated index. When you open one, you will find:
+- Named training categories, each with a label stating which benchmark scenarios that category trains
+- A table of sharecodes organized by tier
 
-### How to use these resources
+Read these files to find which training category corresponds to a weak benchmark scenario, and to get the sharecode for the correct tier.
 
-**To find candidate playlists:**
-Read the `.md` files inside each routine folder. They contain curated playlists with sharecodes organized by weakness, category, and skill type.
+### Playlist `.json` files in `playlists_descargadas/`
 
-**To inspect playlist contents:**
-Look up the sharecode in `playlists_descargadas/`. Each JSON file contains the full playlist — scenario list, repetitions, and metadata — downloaded directly from the KovaaK's API.
+Each file corresponds to one playlist. When you open one, you will find these fields:
 
-**Reading order:**
-1. Start with the `.md` routine files to identify candidates by weakness label.
-2. Cross-reference the sharecode in `playlists_descargadas/` to inspect actual scenario contents.
-3. Never judge a playlist by its name alone — always open the JSON to verify what scenarios it contains.
+- `playlistName` — display name of the playlist
+- `playlistCode` — the sharecode
+- `description` — the author's stated purpose
+- `aimType` — broad aim type of the playlist
+- `scenarioList` — an array where each entry contains:
+  - `scenarioName` — exact name of the scenario
+  - `aimType` — broad aim type of the scenario
+  - `playCount` — number of repetitions
+  - `author` — who created the scenario
 
-> All playlist JSONs in `playlists_descargadas/` were fetched via the KovaaK's API and reflect the real scenario composition of each playlist.
-
----
-
-## 🔍 Scenario Name Parsing Reference
-
-Scenario names in KovaaK's follow a **compositional convention**: `[Base Name] + [Modifiers] + [Community Tag]`. Each component encodes specific training intent. Use this reference during Steps 2, 5, and 6 to decode scenario names into skills, weakness targets, and transfer potential — without needing to open the JSON first.
-
----
-
-### Base Scenario Dictionary
-
-The base name defines the **movement pattern and primary skill family**.
-
-| Base Name | Primary Skill | Secondary Skill | Movement Pattern |
-|---|---|---|---|
-| **Pasu** | Dynamic Clicking | Timing · Reactivity | Bouncing spherical targets |
-| **Popcorn** | Dynamic Clicking | Vertical Flicking · Reading | Parabolic arcs (vertical + horizontal) |
-| **Air / Air NUNS** | Smooth Tracking | Reading · Verticality · Depth perception | 3D aerial movement |
-| **1w4t / 1W4TS** | Static Clicking | Precision · Micro-corrections | Stationary targets on a front wall |
-| **B180 / Bounce 180** | Dynamic Clicking / Tracking | Smoothness · Direction change | Bouncing 180° arc patterns |
-| **FloatingHeads** | Smooth / Precise Tracking | Centering · Stability | Smooth floating silhouettes (head-shaped) |
-| **Smoothbot** | Smooth Tracking | Mouse Control · Wrist/arm isolation | Smooth, curved paths |
-| **Ground Plaza** | Precise / Smooth Tracking | Reading · Mouse Control | Ground-level curves and sweeps |
-| **WW / Wide Wall** | Static Clicking | Wide flicks · Arm aiming | Stationary targets on a wide horizontal wall |
-| **Long Strafes** | Smooth Tracking | Smoothness · Stability · Speed matching | Long lateral lines before direction change |
-| **Frogtagon** | Dynamic Clicking | Reading · Reactivity | Complex 3D movement (introduced S5) |
-| **PsalmTS** | Target Switching | Transition speed · Reactivity | Multi-target evasive switching |
-| **evaTS** | Evasive Target Switching | Reading · Reactivity · Anticipation | Fast erratic evasive multi-target |
-| **Thin Strafes** | Precise Tracking | Precision · Clean mouse paths | Lateral movement with extremely thin hitbox |
-| **Reactive Strafes** | Reactive Tracking | Reactivity · Direction change control | Instant unpredictable direction reversals |
-| **Smoothsphere** | Smooth / Precise Tracking | Centering · Stability · Wrist control | Smooth spherical targets — often associated with Viscose routines |
-
----
-
-### Modifier Dictionary
-
-Modifiers shift **which aspect of the base skill** is being isolated or amplified.
-
-| Modifier | Training Focus Shift |
-|---|---|
-| **Goated** | Optimized community version — generally the highest-transfer version for that skill |
-| **TI / Invincible** | Target cannot die → forces **pure continuous tracking** without click interruptions |
-| **Small / Extra Small / 30%** | Reduced hitbox → demands **higher precision** and cleaner mouse paths |
-| **Larger / Fat / Big / 70%** | Enlarged hitbox → allows focus on **raw speed or smoothness** without penalizing minor deviations |
-| **Thin** | Extremely thin hitbox → requires **perfect linear mouse paths** (no jitter tolerated) |
-| **Timescale 0.5 / 0.75** | Slows simulation speed → isolates **smoothness** without speed pressure; progressively increase back to 1x |
-| **Angelic** | Reduced size AND reduced speed → easier entry point for building **base precision** before scaling |
-| **Reload** | Limited ammo, penalizes misses → rewards **click timing and efficiency** over spray |
-| **Air Far** | Aerial targets at greater depth → trains **long-range reading and depth perception** |
-| **NUNS** | No UFO No Skybots → removes the hardest edge cases from aerial scenarios |
-| **Dodge** | Involves player movement → adds **strafe aiming** component on top of base skill |
-| **Nevermiss** | Run ends on miss → maximum **precision enforcement** |
-| **Evasive / Eva** | Evasive movement patterns → rewards **reading over pure reactivity** |
-| **Easier / Easy** | Reduced difficulty on a base scenario → entry point for motor pattern acquisition |
-| **Viscose** | Scenarios designed or associated with Viscose → specialized focus on **smoothness and precise tracking** |
-
----
-
-### Category / Suffix Keywords
-
-These abbreviations appear as suffixes or standalone labels in scenario and playlist names.
-
-| Keyword | Full Form | What It Signals |
-|---|---|---|
-| **TS** | Target Switch | Target switching category |
-| **TI** | Tracking Invincible | Continuous tracking, no kills |
-| **PGT** | Popcorn Goated Tracking | Tracking on Popcorn movement |
-| **PGTI** | Popcorn Goated Tracking Invincible | Pure smooth/precise tracking, no clicks |
-| **WW** | Wide Wall | Wide static clicking, arm movement |
-| **AIO** | All In One | Gauntlet cycling through multiple dodge profiles |
-| **VSS** | Varied Strafe Speed | Targets vary their strafe speed mid-scenario |
-| **NUNS** | No UFO No Skybots | Aerial tracking without teleporting or overhead bots |
-| **VRT** | Visual Reaction Time | Pure reflex/reaction training |
-| **TE** | Tournament Edition | Larger targets, often used for speed focus |
-| **ISR** | Issue-Specific Routine | Hyper-targeted weakness fixing |
-| **BDIM / VDIM** | Benchmark Daily Improvement Method | Daily category rotation structure |
-| **SYA** | Smooth Your Aim | Smoothness-focused general routine |
-| **SYW** | Smooth Your Wrist | Wrist-isolation smoothness routine |
-| **FAR** | Full Accomplishment Routines | Weekly structured progression routines |
-| **FR** | Fundamental Routines | Rank-organized foundational training |
-
----
-
-### Skill → Scenario Correlation Map
-
-Use this during **Step 3** (building candidates) and **Step 6** (estimating transfer). When the benchmark reveals a weakness in a skill, find which scenario types develop it here.
-
-| Weakness Identified | High-Transfer Scenario Types |
-|---|---|
-| **Smoothness** | Long Strafes · Smoothbot · PGTI · Air (low speed) · Timescale variants · SYA/SYW routines |
-| **Reactive Tracking / Reactivity** | Reactive Strafes · B180 · Pasu · Bounce variants · evaTS · VSS scenarios |
-| **Precise Tracking** | Thin Strafes · Smoothsphere Viscose · FloatingHeads (small) · Ground Plaza (small) |
-| **Dynamic Clicking** | Pasu · Popcorn · Frogtagon · B180 · Bounce · FloatingHeads (clicking mode) |
-| **Static Clicking** | 1w4t · WW / Wide Wall · Nevermiss static variants · Bardpill methodology |
-| **Target Switching** | PsalmTS · evaTS · TS variants · AIO maps with multi-target profiles |
-| **Reading / Anticipation** | Air NUNS · evaTS · Reactive Strafes · Frogtagon · Long Strafes (direction anticipation) |
-| **Arm Aiming / Wide Flicks** | WW (Wide Wall) · Air Far · Wide Angle scenarios · Large movement static maps |
-| **Wrist Control / Micro-corrections** | SYW · Thin Strafes · Smoothsphere Viscose · Small static variants · Reload scenarios |
-| **Jitter / Stability** | Timescale 0.5 variants · SYA · Long Strafes · Smoothbot · Nevermiss · ISR anti-jitter |
-| **Centering** | Precise Smoothbot · FloatingHeads · Tracking scenarios with small targets |
-| **Speed Matching** | Long Strafes · Smoothbot · PGTI · Reactive Strafes |
-| **Direction Change Control** | B180 · Reactive Strafes · Bounce variants · VSS |
-| **Overflicking / Undershoot** | Nevermiss · Reload · Small static variants · Timescale 0.75 static |
-
----
-
-### Reading Scenario Names in Practice
-
-When you encounter an unknown scenario name during Step 5, parse it left to right:
-
-1. **Identify the base** → look up movement pattern and primary skill in the Base Dictionary
-2. **Identify modifiers** → apply training focus shifts from the Modifier Dictionary
-3. **Check for category suffixes** → refine the skill label using the Suffix Keywords
-4. **Map to benchmark weaknesses** → cross-reference the Skill Correlation Map
-
-> Example: `"Smoothsphere Viscose Easier"`
-> - Base = **Smoothsphere** → Smooth/Precise Tracking, Centering, Wrist Control
-> - Modifier = **Viscose** → Smoothness and Precise Tracking specialist focus
-> - Modifier = **Easier** → Entry-level difficulty, motor pattern acquisition
-> - Skill correlation → Smoothness · Precise Tracking · Wrist Control · Centering
+**These files do not contain individual scenario parameters.** There is no data in these files about hitbox size, movement speed, arc shape, direction change frequency, or any other mechanical detail of how a scenario behaves. That information does not exist in the repository.
 
 ---
 
 ## Step 1 — Identify the Problem
 
-From the JSON, extract:
+From the benchmark JSON, extract:
 
-- Benchmark system
-- Current overall rank
-- Target rank
-- Scores per scenario and category
+- Current `overall_rank`
+- Every scenario name, its `score`, its `scenario_rank`, and its `rank_maxes`
+- Every category's `category_rank`
 
-Then identify:
+Identify:
+- Which scenarios have the lowest `scenario_rank` relative to `overall_rank`
+- Which scenarios have the largest point gap to the next threshold in `rank_maxes`
+- Which categories have a `category_rank` that lags behind `overall_rank`
 
-- **Weakest scenarios** — lowest `scenario_rank` relative to `overall_rank`
-- **Scenarios preventing progression** — where the score is furthest from the next rank threshold
-- **Categories causing stagnation** — categories whose `category_rank` lags behind the overall rank
-
-> Focus on specific bottlenecks, not overall rank.
+List the weak scenarios by their exact names as they appear in the benchmark JSON.
 
 ---
 
-## Step 2 — Convert Scenarios Into Skills
+## Step 2 — Match Weak Scenarios to Training Categories
 
-For every weak scenario, decode its name using the **Scenario Name Parsing Reference** above before assigning skills. Parse: Base → Modifiers → Suffix. Then determine:
+Open the `.md` files in the repository. Each one lists training categories with an explicit statement of which benchmark scenarios that category trains.
 
-### Primary Skill
-Examples: Smoothness · Reactive Tracking · Precision Tracking · Dynamic Clicking · Static Clicking · Target Switching
+For each weak scenario from Step 1, find which category in the `.md` files lists that scenario by name. That is the confirmed training category for that weakness.
 
-### Secondary Skill
-Examples: Reading · Stability · Micro Adjustments · Reactivity · Timing · Speed Matching · Direction Change Control
-
-### Mouse Control Components
-Examples: Wrist Control · Fingertip Control · Arm Control · Jitter Reduction · Tension Management · Undertracking · Overtracking · Centering · Thin Tracking
-
-### Scenario Context (from name parsing)
-Note the movement pattern, hitbox properties, and simulation conditions implied by the name. These constrain which playlist scenarios can realistically produce transfer.
-
-Build a **weakness profile** before moving forward. Do not search for playlists yet.
+If a weak scenario name does not appear in any category mapping in any `.md` file, mark it as unmapped and do not assign it to a category.
 
 ---
 
-## Step 3 — Build a Candidate Pool
+## Step 3 — Find Candidate Playlists
 
-Search the repository for every playlist that appears relevant based on:
+For each confirmed category from Step 2, look in the `.md` file for the sharecode that corresponds to the player's current rank tier. The `.md` files list their tiers explicitly — read what the file says about which tier matches which rank level.
 
-- Skill categories
-- Training categories
-- Weakness categories
-- Community recommendations
-- Repository documentation
+Also check the other `.md` files in the other routine folders for playlists that list the same category or the same benchmark scenarios.
 
-> Do not recommend anything yet. The goal is to collect candidates.
+Collect only sharecodes that are explicitly listed under the relevant category. Do not add candidates from other sources.
 
 ---
 
-## Step 4 — Analyze Playlist Contents
+## Step 4 — Open Every Candidate Playlist JSON
 
-For every candidate playlist, open the file and extract:
+**This is a hard gate. You may not evaluate, compare, or rank any playlist you have not opened from `playlists_descargadas/`.**
 
-| Field | Description |
-|---|---|
-| Playlist name | Display name |
-| Sharecode | Code to load in KovaaK's |
-| Scenario list | All scenarios included |
-| Repetitions | Reps per scenario |
-| Playlist length | Total estimated duration |
+For each candidate sharecode, find the matching `.json` file and open it. If it does not exist, remove that playlist from the pool and note it as unverifiable.
 
-> Never evaluate a playlist only by its title. The scenarios matter more than the name.
+From the JSON, record exactly:
+
+- `playlistName`
+- `playlistCode`
+- `description`
+- Every `scenarioName` in `scenarioList`, in order
+- The `aimType` of each scenario
+- The `playCount` of each scenario
+- The `author` of each scenario
+- Total number of scenarios
+- Sum of all `playCount` values
+
+Record only what is in the file. Do not add anything that is not there.
 
 ---
 
-## Step 5 — Analyze Individual Scenarios
+## Step 5 — Analyze the Contents of Each Playlist
 
-For every scenario inside each candidate playlist, **first parse its name** using the Scenario Name Parsing Reference (Base → Modifiers → Suffix), then identify:
+For every scenario in every candidate playlist, work through two clearly separated levels. Never mix them.
 
-- **Movement pattern** — what the target actually does (from Base Dictionary)
-- **Hitbox conditions** — size, shape, and thickness (from Modifier Dictionary)
-- **Simulation conditions** — timescale, ammo, invincibility, etc. (from Modifier Dictionary)
-- **Main skill trained** — primary skill from name parsing + correlation map
-- **Secondary skill trained** — secondary skill from name parsing
-- **Weakness targeted** — specific deficit the scenario addresses
-- **Intended adaptation** — what the player's motor system should learn from repeated exposure
+### Level 1 — What the file confirms
 
-Ask for each scenario: *Why is this here? What weakness is it solving? What benchmark skills does it develop? Does the movement pattern in this scenario match the movement pattern in the player's weak benchmark scenario?*
+State only what the JSON fields say:
+- Scenario name (from `scenarioName`)
+- Broad aim type (from `aimType`)
+- Repetitions (from `playCount`)
+- Author (from `author`)
+- Position in the playlist (first, middle, last — by its index in `scenarioList`)
 
-> Modifier combinations matter. A `Thin + Timescale 0.75` scenario trains a fundamentally different adaptation than `Thin` alone. Always apply every modifier in the name.
+### Level 2 — What can be inferred, labeled as such
+
+After documenting the confirmed data, you may reason about what the scenario likely trains. Every inference must be labeled **[inferred]** and must state what it is based on.
+
+Only infer from:
+- The training category this playlist belongs to (confirmed in Step 2)
+- The scenario name and its `aimType`
+
+Do not infer hitbox size, movement speed, arc shape, or any mechanical parameter. If a question about a scenario cannot be answered from Level 1 data, write "not in file."
+
+### Playlist structure
+
+From the confirmed data, describe:
+- How reps are distributed across scenarios
+- Whether the playlist concentrates volume on one scenario type or spreads it
+- The total rep count
 
 ---
 
 ## Step 6 — Estimate Transfer
 
-Compare **benchmark scenario requirements** vs **playlist scenario requirements**.
+For each candidate playlist, compare what the file confirms against the player's weak scenarios.
 
-Use the **Skill → Scenario Correlation Map** to verify that the playlist scenarios belong to the same skill family as the benchmark weaknesses. Then measure overlap in:
+### Confirmed match signals
 
-- **Movement patterns** — does the playlist scenario move the same way as the benchmark scenario? (bounce vs strafe vs aerial vs static)
-- **Hitbox conditions** — similar size, shape, and thickness demands?
-- **Reading demands** — does the playlist scenario require the same level of anticipation?
-- **Tracking style** — reactive / precision / smooth — are they the same?
-- **Clicking style** — dynamic / static / switching — match?
-- **Reactivity** — similar speed of direction change?
-- **Smoothness** — similar emphasis on clean mouse paths?
-- **Precision requirements** — similar tolerance for deviation?
-- **Mouse control requirements** — same physical component (wrist / arm / fingertip)?
-- **Simulation conditions** — timescale, ammo, invincibility — do they change the adaptation significantly?
+These come from the `.md` files and JSON only:
+- The playlist's training category (from `.md`) matches the category of the weak benchmark scenario (from Step 2) → **category match confirmed**
+- The playlist contains scenario names that include the same base name as the benchmark scenario → **scenario family match confirmed**
+- The playlist `aimType` matches the broad skill type of the weak category → **aim type match confirmed**
 
-**Higher overlap in all dimensions = higher expected transfer.**
+### Inferred match signals
 
-A playlist with 10 scenarios where 8 match the benchmark's movement pattern and hitbox conditions outperforms a playlist with 20 scenarios where only 3 match, even if the second playlist has a stronger reputation.
+Only after confirmed signals are documented:
+- Scenario name contains a sub-focus label (e.g., "Precision Focus", "Reactive Focus") that aligns with the specific weakness → **[inferred] sub-skill match**
 
-Do not use playlist popularity, reputation, or titles as evidence. Use actual scenario contents and name-parsed skill mappings.
+### What is confirmed to be absent
+
+State explicitly which aspects of the weakness are not addressed by any scenario in the playlist, based only on what the file contains.
+
+**Inferred signals are weaker evidence than confirmed signals. Do not treat them equally.**
 
 ---
 
 ## Step 7 — Rank Playlists
 
+Only playlists that completed Steps 4 and 5 may be ranked.
+
 ### 🥇 S Tier
-Highest transfer. Most likely to directly improve benchmark scores.
+Confirmed category match + confirmed scenario family match. Minimal inference required.
 
 ### 🥈 A Tier
-Strong alternatives with slightly lower transfer.
+Confirmed category match. Sub-skill alignment is inferred from scenario names.
 
 ### 🥉 B Tier
-Useful but less direct targeting.
+Category match confirmed, but scenario family match is only inferred, or training load has a clear issue visible in the rep data.
 
-For every playlist include:
-
-- **Name**
-- **Sharecode**
-- **Main skills trained**
-- **Benchmark weaknesses addressed**
-- **Strengths**
-- **Weaknesses**
-- **Reason for ranking**
+For each ranked playlist, state:
+- `playlistName` and `playlistCode` — exact from file
+- Every scenario with its `playCount` — exact from file
+- Which confirmed match signals apply
+- Which inferred match signals apply, labeled as such
+- What the file confirms is not covered
+- Why it received its tier, citing only file data
 
 ---
 
-## Step 8 — Find the True Bottleneck
+## Step 8 — Find the Root Bottleneck
 
-Identify which weakness appears **repeatedly across multiple weak scenarios**.
+From the confirmed categories in Step 2, identify which single category is the furthest below `overall_rank` and affects the most scenarios.
 
-Examples:
-- Poor smoothness
-- Weak reactivity
-- Poor reading
-- Inconsistent micro-adjustments
-- Stability issues
-- Wrist control limitations
-
-> Do not treat every scenario independently. Find the root problem.
+State: which category, which scenarios, and what the point gap is to the next threshold.
 
 ---
 
 ## Step 9 — Build the Recommendation
 
-Answer the following:
+For each answer, cite the specific file and field that supports it. Label inferences.
 
-1. **Which playlist should be played first?**
-2. **Which playlist should be added second?**
-3. **Which playlist has the highest transfer-per-minute?**
-4. **What weakness is actually holding the player back?**
-5. **What improvement should be expected** if the playlist is followed consistently?
+1. **Which playlist to train first?**
+   Cite: confirmed category match, `playlistCode`, total rep count from file.
 
-Optimize for **efficiency**. The objective is not general aim improvement — it is solving the specific bottlenecks that limit benchmark progression.
+2. **Which playlist to add second?**
+   Explain what the first playlist's confirmed gaps are, and how the second playlist addresses them — from file data only.
+
+3. **Which playlist addresses the most of the weakness with the least sessions?**
+   Based on: confirmed match signals and rep count from file.
+
+4. **What is the root weakness?**
+   State: the category name from the `.md` file, the benchmark scenarios it covers, and the score gap from the benchmark JSON.
+
+5. **What should the player observe in session if it is working?**
+   Describe one concrete thing the player would notice during play — not a score improvement. Only describe what is plausible given the confirmed scenario names and aim types in the playlist.
+
+6. **What if progress stalls?**
+   Based on the confirmed categories in the pool, name which alternative playlist addresses a different aspect of the same weakness.
