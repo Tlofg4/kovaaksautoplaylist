@@ -14,6 +14,34 @@ Analizar el benchmark de un jugador, identificar sus debilidades relativas y rec
 
 ## Proceso — Pasos en Orden
 
+### Paso 0 — Normalizar Scores por Tier (OBLIGATORIO antes de comparar)
+
+Las tablas de benchmark muestran columnas de tier en orden creciente
+(ej: Cinnabar < Vermillion < Saffron < Celadon < Viridian < Cerulean 
+Lavender < Indigo < Fuchsia < Wool < ...).
+
+El "%" junto al score NO es una medida absoluta de habilidad.
+Es el progreso dentro del tier actual hacia el siguiente tier.
+
+Para cada escenario:
+1. Determinar el TIER ALCANZADO comparando el score contra las
+   columnas (el tier es la última columna que el score iguala o supera).
+2. Registrar (tier_alcanzado, % dentro del tier) como par, NO solo el %.
+
+REGLA DE COMPARACIÓN:
+- Nunca comparar el % de dos escenarios directamente si no se ha
+  verificado primero que están en el MISMO tier.
+- Si tier A < tier B, el escenario en tier A es la debilidad relativa,
+  sin importar que su % parezca más alto.
+- Si tier A == tier B, ENTONCES sí comparar % como desempate.
+
+Ejemplo de error a evitar:
+  Escenario X: tier Cinnabar, 99%
+  Escenario Y: tier Celadon, 37%
+  → Y es muy superior a X, aunque 37% < 99%.
+
+---
+
 ### Paso 1 — Analizar el Benchmark
 
 Extraer del screenshot:
