@@ -16,9 +16,9 @@ Analizar el benchmark de un jugador, identificar sus debilidades relativas y rec
 
 ### Paso 0 — Normalizar Scores por Tier (OBLIGATORIO antes de comparar)
 
-Las tablas de benchmark muestran columnas de tier en orden creciente
-(ej: Cinnabar < Vermillion < Saffron < Celadon < Viridian < Cerulean 
-Lavender < Indigo < Fuchsia < Wool < ...).
+Las tablas de benchmark muestran columnas de tier en un orden creciente ESTRICTO.
+El orden completo y oficial de menor a mayor es:
+Lemming < Hare < Ermine < Puffin < Penguin < Fox < Mammoth < Orca < Seal < Cinnabar < Vermillion < Saffron < Celadon < Viridian < Cerulean < Lavender < Indigo < Fuchsia < Wool < Rayon < Linen < Velvet < Chiffon < Tricot < Satin < Silk < Interloper < Attuned < Heroic < Mythic < Ascension < Eclipse
 
 El "%" junto al score NO es una medida absoluta de habilidad.
 Es el progreso dentro del tier actual hacia el siguiente tier.
@@ -199,19 +199,19 @@ Razón: Las playlists disponibles no cubren específicamente esta área.
 
 ---
 
-## Referencia A — Sistema de Dificultad (Viscose Benchmarks S2)
+## Referencia A — Sistema de Dificultad y Tiers (Viscose Benchmarks S2)
 
-| # | Easier | Medium | Hard | Expert |
-|---|---|---|---|---|
-| 1 | Lemming | Cinnabar | Wool | Interloper |
-| 2 | Hare | Vermillion | Rayon | Attuned |
-| 3 | Ermine | Saffron | Linen | Heroic |
-| 4 | Puffin | Celadon | Velvet | Mythic |
-| 5 | Penguin | Viridian | Chiffon | Ascension |
-| 6 | Fox | Cerulean | Tricot | Eclipse |
-| 7 | Mammoth | Lavender | Satin | — |
-| 8 | Orca | Indigo | Silk | — |
-| 9 | **Seal ✓** | Fuchsia | — | — |
+El orden de los Tiers de menor a mayor es ESTRICTO e inalterable. 
+Un escenario en un Tier inferior SIEMPRE representa una mayor debilidad que uno en un Tier superior.
+
+Orden completo (de Peor a Mejor):
+Lemming < Hare < Ermine < Puffin < Penguin < Fox < Mammoth < Orca < Seal < Cinnabar < Vermillion < Saffron < Celadon < Viridian < Cerulean < Lavender < Indigo < Fuchsia < Wool < Rayon < Linen < Velvet < Chiffon < Tricot < Satin < Silk < Interloper < Attuned < Heroic < Mythic < Ascension < Eclipse
+
+Agrupación por Dificultad (en orden de progresión interna):
+- **EASIER:** Lemming < Hare < Ermine < Puffin < Penguin < Fox < Mammoth < Orca < Seal
+- **MEDIUM:** Cinnabar < Vermillion < Saffron < Celadon < Viridian < Cerulean < Lavender < Indigo < Fuchsia
+- **HARD:** Wool < Rayon < Linen < Velvet < Chiffon < Tricot < Satin < Silk
+- **EXPERT:** Interloper < Attuned < Heroic < Mythic < Ascension < Eclipse
 
 ---
 
