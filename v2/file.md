@@ -366,6 +366,160 @@ Déjame leer todos los archivos primero.Perfecto, ya leí todo. Aquí está el �
 
 ---
 
+### 📁 F3zyX — ~23 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Reactive/Precise Tracking | QrowxClover Reactive Tracking, QrowxClover Precise Tracking |
+| Target Switching | QrowxClover Target Switching |
+| Tracer/Movement-specific | QrowxClover Tracer Playlist, crysis tracking arc |
+| Smoothness/Precision | fusah - smoothness & precision |
+| Benchmarks | meow Benchmarks, rA kvk s1/s2, Sparky benchmarks, Sasukiri Tracer (con score targets) |
+
+---
+
+### 📁 Tammas Dexter — ~9 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Benchmarks oficiales | Voltaic Novice/Intermediate/Advanced Benchmarks S5 |
+| Rutinas personalizadas | Routine for Ragus (Bronze), Tammas' Frog House |
+| Most played | Most played 500 |
+
+---
+
+### 📁 Struth — 9 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Tracking predictivo | Struth AD Tracking Trainers (predictive, no reactive) |
+| Educativo/YouTube | Tracking Training - KovaaK's Youtube, Flick Training - KovaaK's Youtube |
+| Game-specific | LEGIONFARM Warzone (Beginner/Intermediate/Advanced), Splitgate Warmup 10 Min |
+
+---
+
+### 📁 Trippez — ~35 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Smooth Reactivity/Regen | Trippez Smooth Reactivity 1-4, Trippez Smooth Regen 1-3 |
+| Evasive Switching | Trippez Evasive Switching 1-4 |
+| Speed (Gotta Go Fast series) | Gotta Go Fast (Clicking/TS/general) 1-3 |
+| Static/Dynamic | Trippez Static for Shishigami, Trippez Dynamic for Cebb/Shishigami |
+| Valorant | Trippez - IsakS - Valorant (Routine) |
+
+---
+
+### 📁 etherelkgg — ~120 playlists (grande)
+| Categoría | Ejemplos |
+|-----------|---------|
+| Micro | MICRO GOLD MINE, MY MICRO, Valorant Micro God |
+| God-Mode series (por skill) | ethSmooth/ethSpeed/ethEvasive/ethStatic/ethSwitch/ethReactive God Mode |
+| Dynamic por nivel | ethDynamic Easy/Beginner/Intermediate/Advanced |
+| Benchmarks propios | Eth TacFPS Benchmark (Easy/Med/Hard), Valorant Aim Evaluation, EtherelkGG's Valorant Aim Benchmark |
+| Fundamentals | Flicking and Space, Sensitivity Calibration, Clicking/Dynamic/TS/Ground/Smooth/Arcs/Air |
+| Full Reactive | Reactive Buster 1-3, PAPI's (reaction time) |
+
+---
+
+### 📁 Dokkie — ~38 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Static (no pressure) | Dokkie Static no pressure (fixed), dont stop mouse |
+| Smoothness | gramaki smoothness, smoothbot |
+| Target Reading | LighthawkFPS - Target Reading (Hard) |
+| Game warmup | Dokkie - Game warmup (PatTS/psalmTS/tamTS explicados) |
+| Speed (Spid) | Dokkie Spid (50cm+) |
+
+---
+
+### 📁 Fallen — ~38 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Smooth/Reactive/Precise/Dynamic/Static Tracking | psev series (Smooth/Reactive/Dynamic/Static/Fundamental) |
+| OW Hitscan | OW2 Hitscan (v2, short, Easier) |
+| Bounce | Bounce Tracking |
+| TacFPS | Fallen TacFPS, Fallen Balanced Routine |
+
+---
+
+### 📁 wa11p1per — 150+ playlists (muy grande)
+| Categoría | Ejemplos |
+|-----------|---------|
+| Community Benchmarks (CBI/CBW) | CBI Static/Speed/Reactive/Precise/Evasive/Dynamic Clicking, CBW Adaptive Warmup |
+| cAt Benchmarks | cAt Benchmarks Easy/Normal/Hard (múltiples versiones) |
+| Static Collection | Community Static Collection (varias) |
+| Benchmarks propios | AIMERZ+ Benchmarks Hard/Easy S1, Voltaic S5 Advanced |
+| Smoothness | !Smooth, FEROCIOUS SMOOTHNESS BENCHMARKS |
+| Game-specific | fortnite series (charge, skate, ar/sg prac) |
+
+---
+
+### 📁 rxnown — ~150 playlists (muy grande)
+| Categoría | Ejemplos |
+|-----------|---------|
+| Smoothness compilations | Smoothness Compilation, rx_smooF, rx sMoOFneZz |
+| Static | rx static scenarios, BEST STATIC ROUTINE, Staticzz |
+| Reactivity | Lorys REACTIVE, Good reactivity playlist, RSI Tracking |
+| Precise/Smooth Tracking | A Precise/Smooth Tracking Playlist, Air Tracking Hell |
+| Especiales (SY) | SMOOTH YOUR (relajación, sin enfoque en score) |
+
+---
+
+### 📁 mixu — ~48 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Micro | micro, micro2 |
+| Tracking (por días) | Day 1-7, Tracking I/II, Tracking short/shorter |
+| Reactive/Dynamic/Static | Reactive, Reactive 2, Dynamic, Smooth+Dynamic, Static |
+| Game combos | ApexOW (Tracking+Clicking/Arcing/Strafing), Valorant (Static+XY, Clicking+Switching) |
+
+---
+
+### 📁 Lowgravity56 — ~50 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| VDIM (Voltaic Daily Improvement Method) | A-G (Dynamic/Static/Smooth/Reactive/SpeedTS/EvasiveTS/Movement) × (Novice/Intermediate/Advanced/AD PLUS) |
+| Multiclick | Multiclick Practice (Novice/Intermediate/Advanced) |
+| Benchmarks oficiales | Voltaic Novice/Intermediate/Advanced Benchmarks S4 |
+| PGTI / Preciseorb | PreciseOrb Full Practice, Preciseorb Left/Right Focus |
+| Warmups | A - Chill/Warm Up Routine |
+
+---
+
+### 📁 cloverISL — 2 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| Tracking diaria | VT clover Daily Tracking (Beginner y normal), ~30cm recomendado |
+
+---
+
+### 📁 ness — ~48 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| 1 by 1 (threshold method) | ness 1 by 1 - Static/Precise/Dynamic/Reactive/Speed/Evasive |
+| Benchmarks | Aimerz+ Reactive/Precise/Dynamic/SpeedTS/Evasive Switching Benchmarks |
+| Top Improvement Scenarios | por nivel (Novice/Intermediate/Advanced) |
+
+---
+
+### 📁 divinebeginnings — ~22 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| ENV S5 Variants | Raw Control, Controlsphere, PGT, Snake Track |
+| Static | Envision's static, Envision Novice Static |
+| Pasu/SkyTS | Envision Pasu, SkyTS Training/variants/loop |
+| Tracking | Goated tracking scenarios |
+
+---
+
+### 📁 TRAGEDY — ~75 playlists
+| Categoría | Ejemplos |
+|-----------|---------|
+| LAJNUS series (técnica detallada) | LAJNUS Static/Reactive/Precise/Dynamic/Switching/Weaknesses |
+| SIDEY Threshold | Static/Precise/Reactive/Dynamic/EvasiveTS/SpeedTS Threshold |
+| Coaching personalizado | HaiX Micros (Week 1-4), Kai (Initial Flick/Cluster/Followthrough), Dave (Follow Through/Wide ROM) |
+| Overwatch God series | Overwatch Tracking/Soldier/Hitscan/Precision/Clicking God |
+| Smoothness | Smoothness God, LILY SMOOTH HAND, no tension basic dynamic |
+
+---
+
 ### 📁 Pequeños / Especializados
 
 | Creator | Especialidad |
@@ -377,7 +531,6 @@ Déjame leer todos los archivos primero.Perfecto, ya leí todo. Aquí está el �
 | **florescent** | Weekly VDIM (días), Sato routines, Benchmark focus |
 | **reiuy** | Dynamic XY Arc, TS, Air Standard Reactive, precise control, Tracking Benchmarks |
 | **sunflower** | Hit Confirmation, VAL hard |
-| **thundah** *(ya arriba)* | — |
 | **Loita** | Solo 2: Voltaic RAMP Warmup |
 | **Lored** | Micro ajustes, flicks, personal routines |
 | **A1D** | Mousecontrol, Precision, VT Intermediate/Advanced |
