@@ -1,0 +1,255 @@
+{
+  "playlistName": "VDIM Intermediate S5 - Tracking I",
+  "subscribers": 14799,
+  "scenarioList": [
+    {
+      "author": "T$K iyo",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "SYW (Smooth Your Wrist) Truly FIXED",
+      "webappUsername": "",
+      "steamAccountName": "T$K iyo"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Centering II 180 Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT Wide Angle Tracking Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Smooth Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "ツ",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Smoothsphere Diamond",
+      "webappUsername": "Hasin",
+      "steamAccountName": "ツ"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Smoothbot Pauer Glider Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Snake Track Intermediate S5 Precision Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Snake Track Intermediate S5 Reactive Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Snake Track Intermediate S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 4,
+      "scenarioName": "VT Snake Track Intermediate S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Smooth Your Vertical Altered POV Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT B180TI Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Dokkie",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "BounceSphere Intermediate",
+      "webappUsername": "Dokkie",
+      "steamAccountName": "Dokkie"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "VT Curveswitch Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT PGT Intermediate S5 Precision Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT PGT Intermediate S5 Bot 1",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT PGT Intermediate S5 Bot 2",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT PGT Intermediate S5 Bot 3",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "VT PGT Intermediate S5 Reactive Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT PGT Intermediate S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 4,
+      "scenarioName": "VT PGT Intermediate S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "cAt purrTrack Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 2,
+      "scenarioName": "tamTargetSwitch Control Intermediate",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "Controlsphere",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "clover",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "cloverRawControl Easy",
+      "webappUsername": "cloverISL",
+      "steamAccountName": "clover"
+    },
+    {
+      "author": "Kaatz",
+      "aimType": "Tracking",
+      "playCount": 2,
+      "scenarioName": "Silo Easier",
+      "webappUsername": "Kaatz",
+      "steamAccountName": "Kaatz"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Raw Control Intermediate S5 Precision Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Raw Control Intermediate S5 Reactive Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Raw Control Intermediate S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 4,
+      "scenarioName": "VT Raw Control Intermediate S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    }
+  ],
+  "playlistCode": "KovaaKsCallingGearedDunk",
+  "playlistId": 317687,
+  "published": "2025-02-26T00:57:51.021Z",
+  "steamId": "76561199022492743",
+  "steamAccountName": "4rK",
+  "webappUsername": "4rK",
+  "description": "Voltaic Daily Improvement Method!\r\n\r\nThese playlists contain a variety of scenarios that are designed to enchance the skills you need to perform better in the benchmarks!\r\n \r\nMade with @Lowgravity56\r\n- @4rKonTop",
+  "aimType": "Tracking",
+  "playlistDuration": 9
+}

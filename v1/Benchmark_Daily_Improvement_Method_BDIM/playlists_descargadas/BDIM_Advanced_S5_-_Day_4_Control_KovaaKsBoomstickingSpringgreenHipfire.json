@@ -1,0 +1,111 @@
+{
+  "playlistName": "BDIM Advanced S5 - Day 4 Control",
+  "subscribers": 200,
+  "scenarioList": [
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Raw Control Advanced S5 Precision Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Raw Control Advanced S5 Reactive Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 4,
+      "scenarioName": "VT Raw Control Advanced S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 5,
+      "scenarioName": "VT Raw Control Advanced S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Controlsphere Advanced S5 Precision Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT Controlsphere Advanced S5 Reactive Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 4,
+      "scenarioName": "VT Controlsphere Advanced S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 5,
+      "scenarioName": "VT Controlsphere Advanced S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT ControlTS Advanced S5 Speed",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT ControlTS Advanced S5 Smooth",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 4,
+      "scenarioName": "VT ControlTS Advanced S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Target Switching",
+      "playCount": 5,
+      "scenarioName": "VT ControlTS Advanced S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    }
+  ],
+  "playlistCode": "KovaaKsBoomstickingSpringgreenHipfire",
+  "playlistId": 303306,
+  "published": "2025-01-03T19:18:26.577Z",
+  "steamId": "76561199022492743",
+  "steamAccountName": "4rK",
+  "webappUsername": "4rK",
+  "description": "Benchmark Daily Improvement Method!\r\n\r\nA benchmark focused routine that groups scenarios based on the skills they target and builds off the previous day!\r\n\r\nCreated by @4rKonTop",
+  "aimType": "Tracking",
+  "playlistDuration": 0
+}

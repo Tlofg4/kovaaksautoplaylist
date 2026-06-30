@@ -1,0 +1,119 @@
+{
+  "playlistName": "BDIM Novice S5 - Day 3 Arcs",
+  "subscribers": 250,
+  "scenarioList": [
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT PGT Novice S5 Precision Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 3,
+      "scenarioName": "VT PGT Novice S5 Reactive Focus",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Tracking",
+      "playCount": 4,
+      "scenarioName": "VT PGT Novice S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Tracking",
+      "playCount": 5,
+      "scenarioName": "VT PGT Novice S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT Penta Bounce Novice S5 Speed",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 3,
+      "scenarioName": "VT Penta Bounce Novice S5 Smooth Small",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Target Switching",
+      "playCount": 4,
+      "scenarioName": "VT Penta Bounce Novice S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Target Switching",
+      "playCount": 5,
+      "scenarioName": "VT Penta Bounce Novice S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "VT Popswitch Novice S5",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "VT Popcorn Novice S5 Speed",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Clicking",
+      "playCount": 2,
+      "scenarioName": "VT Popcorn Novice S5 Multi",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "4rK",
+      "aimType": "Clicking",
+      "playCount": 4,
+      "scenarioName": "VT Popcorn Novice S5 Hard",
+      "webappUsername": "4rK",
+      "steamAccountName": "4rK"
+    },
+    {
+      "author": "Tammas",
+      "aimType": "Clicking",
+      "playCount": 5,
+      "scenarioName": "VT Popcorn Novice S5",
+      "webappUsername": "Tammas Dexter",
+      "steamAccountName": "Tammas"
+    }
+  ],
+  "playlistCode": "KovaaKsClippingViscousShotgun",
+  "playlistId": 303324,
+  "published": "2025-01-03T19:22:47.476Z",
+  "steamId": "76561199022492743",
+  "steamAccountName": "4rK",
+  "webappUsername": "4rK",
+  "description": "Benchmark Daily Improvement Method!\r\n\r\nA benchmark focused routine that groups scenarios based on the skills they target and builds off the previous day!\r\n\r\nCreated by @4rKonTop",
+  "aimType": "Clicking",
+  "playlistDuration": 0
+}
