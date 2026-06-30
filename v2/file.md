@@ -191,10 +191,31 @@ Razón: Las playlists disponibles no cubren específicamente esta área.
 [ídem]
 
 ## Plan de Entrenamiento
-- Playlists diarias recomendadas
-- Playlists semanales
-- Orden de enfoque
-- Énfasis estimado por área
+
+### Estructura de bloques
+
+1. **Bloque de Benchmark**
+   Medir progreso periódicamente usando el mismo benchmark para
+   detectar el cuello de botella actual.
+   - Comparar tier alcanzado, no solo %.
+   - Re-evaluar el ranking de debilidades cada vez.
+   - No entrenar a ciegas: el benchmark decide qué se entrena después.
+
+2. **Bloque de Debilidad (Weakness)**
+   Atacar la debilidad #1 del ranking usando las playlists de Top Priority.
+   Criterio de salida — NO es tiempo fijo, es progreso real:
+   - Entrenar esta debilidad en la MAYORÍA de las sesiones de práctica
+     hasta que el benchmark muestre que subió de tier (o cerró el
+     desfase de % dentro del mismo tier) y dejó de ser el cuello de
+     botella principal.
+   - Empezar siempre por la variante más fácil disponible antes de
+     subir dificultad.
+   - Cuando deja de ser la debilidad #1, se pasa a la siguiente del
+     ranking (#2, luego #3...).
+
+### Cómo combinarlos
+Benchmark → decide qué entrenar → Weakness. Repetir el ciclo después
+de cada medición.
 ```
 
 ---
